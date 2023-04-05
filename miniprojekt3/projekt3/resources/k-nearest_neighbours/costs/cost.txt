@@ -1,0 +1,2324 @@
+
+
+Cost for size: 0.005 is equal 0.2135105805751492
+K is equal 2
+Precision is equal 0.7709760273972602
+Tenderness is equal 0.8772528007793473
+F1 is equal 0.8206880838459786
+Cost for size: 0.01 is equal 0.15219750406945198
+K is equal 3
+Precision is equal 0.8479477611940298
+Tenderness is equal 0.8855333658061374
+F1 is equal 0.8663330950679057
+Cost for size: 0.02 is equal 0.15274009766684754
+K is equal 3
+Precision is equal 0.8510838831291234
+Tenderness is equal 0.8796882610813443
+F1 is equal 0.8651497005988024
+Cost for size: 0.03 is equal 0.1367335865436788
+K is equal 5
+Precision is equal 0.8754241396025206
+Tenderness is equal 0.8796882610813443
+F1 is equal 0.8775510204081632
+Cost for size: 0.075 is equal 0.11774281063483451
+K is equal 5
+Precision is equal 0.8901204819277109
+Tenderness is equal 0.8996590355577204
+F1 is equal 0.8948643410852714
+Cost for size: 0.125 is equal 0.10553445469343462
+K is equal 5
+Precision is equal 0.8950617283950617
+Tenderness is equal 0.9181685338528982
+F1 is equal 0.9064679009377253
+Cost for size: 0.25 is equal 0.09115572436245252
+K is equal 7
+Precision is equal 0.9129389129389129
+Tenderness is equal 0.9245007306380906
+F1 is equal 0.9186834462729913
+Cost for size: 0.5 is equal 0.0683667932718394
+K is equal 1
+Precision is equal 0.9343945972021225
+Tenderness is equal 0.9434973209936678
+F1 is equal 0.9389238972370335
+Cost for size: 0.625 is equal 0.05968529571351058
+K is equal 1
+Precision is equal 0.9451189898008742
+Tenderness is equal 0.9478811495372625
+F1 is equal 0.9464980544747081
+Cost for size: 0.75 is equal 0.05453065653825285
+K is equal 1
+Precision is equal 0.9499514091350826
+Tenderness is equal 0.9522649780808573
+F1 is equal 0.95110678666991
+Cost for size: 0.875 is equal 0.04584915897992404
+K is equal 1
+Precision is equal 0.9563953488372093
+Tenderness is equal 0.9615197272284461
+F1 is equal 0.9589506922516396
+Cost for size: 1 is equal 0.042593597395550735
+K is equal 1
+Precision is equal 0.9597478176527643
+Tenderness is equal 0.9639551875304433
+F1 is equal 0.961846901579587
+
+Cost for size: 0.005 is equal 0.19099294628323385
+K is equal 3
+Precision is equal 0.8878665899942496
+Tenderness is equal 0.7520701412566975
+F1 is equal 0.8143459915611815
+Cost for size: 0.01 is equal 0.13727618014107434
+K is equal 3
+Precision is equal 0.8834903321764997
+Tenderness is equal 0.8679980516317584
+F1 is equal 0.8756756756756756
+Cost for size: 0.02 is equal 0.13564839934888767
+K is equal 4
+Precision is equal 0.8398249452954049
+Tenderness is equal 0.9347296639064783
+F1 is equal 0.884739511295528
+Cost for size: 0.03 is equal 0.11475854584915898
+K is equal 3
+Precision is equal 0.9014778325123153
+Tenderness is equal 0.8913784705309303
+F1 is equal 0.896399706098457
+Cost for size: 0.075 is equal 0.1101465002712968
+K is equal 6
+Precision is equal 0.8711131140153222
+Tenderness is equal 0.9415489527520702
+F1 is equal 0.9049625468164794
+Cost for size: 0.125 is equal 0.09956592512208357
+K is equal 6
+Precision is equal 0.8845802919708029
+Tenderness is equal 0.9444715051144666
+F1 is equal 0.913545347467609
+Cost for size: 0.25 is equal 0.08355941399891481
+K is equal 7
+Precision is equal 0.9208876025084419
+Tenderness is equal 0.9298587433024842
+F1 is equal 0.9253514299563742
+Cost for size: 0.5 is equal 0.06863809007053717
+K is equal 1
+Precision is equal 0.9368932038834952
+Tenderness is equal 0.9400876765708719
+F1 is equal 0.9384877218575249
+Cost for size: 0.625 is equal 0.05914270211611503
+K is equal 1
+Precision is equal 0.9447406689287445
+Tenderness is equal 0.9493424257184608
+F1 is equal 0.9470359572400389
+Cost for size: 0.75 is equal 0.05480195333695062
+K is equal 1
+Precision is equal 0.9460240963855422
+Tenderness is equal 0.9561617145640526
+F1 is equal 0.9510658914728682
+Cost for size: 0.875 is equal 0.04747693977211069
+K is equal 1
+Precision is equal 0.9484240687679083
+Tenderness is equal 0.9673648319532392
+F1 is equal 0.9578008198697855
+Cost for size: 1 is equal 0.04693434617471514
+K is equal 1
+Precision is equal 0.9497607655502392
+Tenderness is equal 0.9668777398928398
+F1 is equal 0.9582428192131306
+
+Cost for size: 0.005 is equal 0.16928920238741182
+K is equal 3
+Precision is equal 0.8016040523427607
+Tenderness is equal 0.92498782269849
+F1 is equal 0.8588873812754411
+Cost for size: 0.01 is equal 0.18692349430276722
+K is equal 3
+Precision is equal 0.7988606485539
+Tenderness is equal 0.8879688261081344
+F1 is equal 0.8410611303344867
+Cost for size: 0.02 is equal 0.1695604991861096
+K is equal 3
+Precision is equal 0.8148148148148148
+Tenderness is equal 0.9001461276181199
+F1 is equal 0.8553575561212683
+Cost for size: 0.03 is equal 0.1342919153553988
+K is equal 5
+Precision is equal 0.8515342960288809
+Tenderness is equal 0.9191427179736971
+F1 is equal 0.8840477863668307
+Cost for size: 0.075 is equal 0.1166576234400434
+K is equal 3
+Precision is equal 0.8815232722143864
+Tenderness is equal 0.913297613248904
+F1 is equal 0.8971291866028708
+Cost for size: 0.125 is equal 0.10987520347259902
+K is equal 6
+Precision is equal 0.8636363636363636
+Tenderness is equal 0.9532391622016562
+F1 is equal 0.9062282935864784
+Cost for size: 0.25 is equal 0.08681497558328811
+K is equal 3
+Precision is equal 0.9108582266477003
+Tenderness is equal 0.9357038480272771
+F1 is equal 0.9231138875540607
+Cost for size: 0.5 is equal 0.0727075420510038
+K is equal 3
+Precision is equal 0.9223852342640795
+Tenderness is equal 0.9493424257184608
+F1 is equal 0.9356697071531445
+Cost for size: 0.625 is equal 0.060499186109603906
+K is equal 1
+Precision is equal 0.9441747572815534
+Tenderness is equal 0.9473940574768631
+F1 is equal 0.9457816678823243
+Cost for size: 0.75 is equal 0.05561584373304395
+K is equal 1
+Precision is equal 0.9489795918367347
+Tenderness is equal 0.9512907939600584
+F1 is equal 0.9501337873996595
+Cost for size: 0.875 is equal 0.050189907759088444
+K is equal 1
+Precision is equal 0.9551656920077972
+Tenderness is equal 0.9547004383828543
+F1 is equal 0.9549330085261876
+Cost for size: 1 is equal 0.04693434617471514
+K is equal 1
+Precision is equal 0.9585365853658536
+Tenderness is equal 0.9571358986848514
+F1 is equal 0.9578357299536923
+
+Cost for size: 0.005 is equal 0.2091698317959848
+K is equal 5
+Precision is equal 0.7593042071197411
+Tenderness is equal 0.9142717973697029
+F1 is equal 0.8296132596685082
+Cost for size: 0.01 is equal 0.1519262072707542
+K is equal 7
+Precision is equal 0.8205238299699442
+Tenderness is equal 0.930832927423283
+F1 is equal 0.8722044728434506
+Cost for size: 0.02 is equal 0.14053174172544763
+K is equal 9
+Precision is equal 0.8403547671840355
+Tenderness is equal 0.9230394544568924
+F1 is equal 0.8797585886722378
+Cost for size: 0.03 is equal 0.14785675529028758
+K is equal 7
+Precision is equal 0.8336283185840708
+Tenderness is equal 0.9176814417924988
+F1 is equal 0.8736378390911198
+Cost for size: 0.075 is equal 0.11937059142702117
+K is equal 7
+Precision is equal 0.8745935903390618
+Tenderness is equal 0.9171943497320993
+F1 is equal 0.8953875416072278
+Cost for size: 0.125 is equal 0.10716223548562127
+K is equal 7
+Precision is equal 0.8974113135186961
+Tenderness is equal 0.9118363370677058
+F1 is equal 0.9045663203672385
+Cost for size: 0.25 is equal 0.0914270211611503
+K is equal 7
+Precision is equal 0.9185365853658537
+Tenderness is equal 0.9171943497320993
+F1 is equal 0.91786497684621
+Cost for size: 0.5 is equal 0.06972327726532827
+K is equal 1
+Precision is equal 0.9363459669582118
+Tenderness is equal 0.9386264003896736
+F1 is equal 0.9374847968864022
+Cost for size: 0.625 is equal 0.06212696690179056
+K is equal 1
+Precision is equal 0.9401544401544402
+Tenderness is equal 0.9488553336580614
+F1 is equal 0.9444848484848485
+Cost for size: 0.75 is equal 0.05588714053174173
+K is equal 1
+Precision is equal 0.9463508941517641
+Tenderness is equal 0.9537262542620555
+F1 is equal 0.9500242600679282
+Cost for size: 0.875 is equal 0.050461204557786216
+K is equal 1
+Precision is equal 0.9533754249635745
+Tenderness is equal 0.9561617145640526
+F1 is equal 0.9547665369649807
+Cost for size: 1 is equal 0.043678784590341836
+K is equal 1
+Precision is equal 0.9596695821185617
+Tenderness is equal 0.9620068192888456
+F1 is equal 0.9608367793724155
+
+Cost for size: 0.005 is equal 0.16847531199131852
+K is equal 5
+Precision is equal 0.8213644524236984
+Tenderness is equal 0.8913784705309303
+F1 is equal 0.8549404344779258
+Cost for size: 0.01 is equal 0.12750949538795442
+K is equal 7
+Precision is equal 0.8622425629290618
+Tenderness is equal 0.9176814417924988
+F1 is equal 0.8890986314299197
+Cost for size: 0.02 is equal 0.12642430819316333
+K is equal 9
+Precision is equal 0.8595378341640235
+Tenderness is equal 0.9240136385776911
+F1 is equal 0.8906103286384977
+Cost for size: 0.03 is equal 0.11991318502441671
+K is equal 14
+Precision is equal 0.8540659340659341
+Tenderness is equal 0.9464198733560643
+F1 is equal 0.8978743068391868
+Cost for size: 0.075 is equal 0.11720021703743896
+K is equal 23
+Precision is equal 0.8662449164030728
+Tenderness is equal 0.9337554797856795
+F1 is equal 0.8987341772151899
+Cost for size: 0.125 is equal 0.10987520347259902
+K is equal 9
+Precision is equal 0.8821892393320965
+Tenderness is equal 0.9264490988796883
+F1 is equal 0.9037776193870278
+Cost for size: 0.25 is equal 0.09875203472599023
+K is equal 9
+Precision is equal 0.9038737446197992
+Tenderness is equal 0.9206039941548952
+F1 is equal 0.9121621621621622
+Cost for size: 0.5 is equal 0.0737927292457949
+K is equal 1
+Precision is equal 0.9238457877201333
+Tenderness is equal 0.9454456892352655
+F1 is equal 0.934520943668753
+Cost for size: 0.625 is equal 0.06348345089527943
+K is equal 1
+Precision is equal 0.9341288782816229
+Tenderness is equal 0.9532391622016562
+F1 is equal 0.9435872709739634
+Cost for size: 0.75 is equal 0.05860010851871948
+K is equal 1
+Precision is equal 0.9396840593585447
+Tenderness is equal 0.9561617145640526
+F1 is equal 0.9478512795750845
+Cost for size: 0.875 is equal 0.05263157894736842
+K is equal 1
+Precision is equal 0.9449497367161321
+Tenderness is equal 0.9615197272284461
+F1 is equal 0.9531627233220666
+Cost for size: 1 is equal 0.04964731416169289
+K is equal 1
+Precision is equal 0.9473684210526315
+Tenderness is equal 0.9644422795908427
+F1 is equal 0.9558291093410572
+
+Cost for size: 0.005 is equal 0.17335865436787845
+K is equal 5
+Precision is equal 0.8603465851172273
+Tenderness is equal 0.8222113979542134
+F1 is equal 0.8408468244084683
+Cost for size: 0.01 is equal 0.16847531199131852
+K is equal 8
+Precision is equal 0.8506366307541626
+Tenderness is equal 0.8460789089137847
+F1 is equal 0.8483516483516483
+Cost for size: 0.02 is equal 0.15599565925122083
+K is equal 12
+Precision is equal 0.8647581441263573
+Tenderness is equal 0.8533852898197759
+F1 is equal 0.8590340769796518
+Cost for size: 0.03 is equal 0.14351600651112317
+K is equal 3
+Precision is equal 0.8848484848484849
+Tenderness is equal 0.8533852898197759
+F1 is equal 0.8688321348871807
+Cost for size: 0.075 is equal 0.1058057514921324
+K is equal 21
+Precision is equal 0.8935163274964505
+Tenderness is equal 0.9196298100340965
+F1 is equal 0.9063850216034565
+Cost for size: 0.125 is equal 0.09739555073250136
+K is equal 3
+Precision is equal 0.9209741550695825
+Tenderness is equal 0.9025815879201169
+F1 is equal 0.9116851168511685
+Cost for size: 0.25 is equal 0.08572978838849701
+K is equal 1
+Precision is equal 0.9280433711187778
+Tenderness is equal 0.9171943497320993
+F1 is equal 0.9225869671729544
+Cost for size: 0.5 is equal 0.059413998914812804
+K is equal 1
+Precision is equal 0.9486301369863014
+Tenderness is equal 0.9444715051144666
+F1 is equal 0.9465462533561142
+Cost for size: 0.625 is equal 0.05453065653825285
+K is equal 1
+Precision is equal 0.953921568627451
+Tenderness is equal 0.9478811495372625
+F1 is equal 0.9508917664304912
+Cost for size: 0.75 is equal 0.050461204557786216
+K is equal 1
+Precision is equal 0.9547004383828543
+Tenderness is equal 0.9547004383828543
+F1 is equal 0.9547004383828543
+Cost for size: 0.875 is equal 0.04503526858383071
+K is equal 1
+Precision is equal 0.9600195026816187
+Tenderness is equal 0.9590842669264491
+F1 is equal 0.959551656920078
+Cost for size: 1 is equal 0.041508410200759634
+K is equal 1
+Precision is equal 0.9634146341463414
+Tenderness is equal 0.9620068192888456
+F1 is equal 0.9627102120399708
+
+Cost for size: 0.005 is equal 0.15979381443298968
+K is equal 6
+Precision is equal 0.8104325699745547
+Tenderness is equal 0.930832927423283
+F1 is equal 0.8664701881659487
+Cost for size: 0.01 is equal 0.15572436245252305
+K is equal 7
+Precision is equal 0.8225032708242477
+Tenderness is equal 0.9186556259132976
+F1 is equal 0.8679245283018867
+Cost for size: 0.02 is equal 0.12316874660879001
+K is equal 9
+Precision is equal 0.8632439800090868
+Tenderness is equal 0.9254749147588894
+F1 is equal 0.8932769158439117
+Cost for size: 0.03 is equal 0.12669560499186108
+K is equal 9
+Precision is equal 0.8493392070484581
+Tenderness is equal 0.939113492450073
+F1 is equal 0.8919731667823271
+Cost for size: 0.075 is equal 0.12018448182311449
+K is equal 11
+Precision is equal 0.8679159049360147
+Tenderness is equal 0.92498782269849
+F1 is equal 0.8955435038905919
+Cost for size: 0.125 is equal 0.10336408030385241
+K is equal 17
+Precision is equal 0.8866790009250693
+Tenderness is equal 0.9337554797856795
+F1 is equal 0.9096085409252669
+Cost for size: 0.25 is equal 0.08654367878459034
+K is equal 7
+Precision is equal 0.9221032132424537
+Tenderness is equal 0.922552362396493
+F1 is equal 0.922327733138544
+Cost for size: 0.5 is equal 0.06592512208355941
+K is equal 1
+Precision is equal 0.938468992248062
+Tenderness is equal 0.9434973209936678
+F1 is equal 0.9409764391547243
+Cost for size: 0.625 is equal 0.06212696690179056
+K is equal 1
+Precision is equal 0.9401544401544402
+Tenderness is equal 0.9488553336580614
+F1 is equal 0.9444848484848485
+Cost for size: 0.75 is equal 0.05425935973955507
+K is equal 1
+Precision is equal 0.9456469456469456
+Tenderness is equal 0.9576229907452508
+F1 is equal 0.951597289448209
+Cost for size: 0.875 is equal 0.04829083016820401
+K is equal 1
+Precision is equal 0.9513721714010592
+Tenderness is equal 0.962493911349245
+F1 is equal 0.9569007263922519
+Cost for size: 1 is equal 0.04557786218122626
+K is equal 1
+Precision is equal 0.9555340744320928
+Tenderness is equal 0.9629810034096444
+F1 is equal 0.9592430858806406
+
+Cost for size: 0.005 is equal 0.18529571351058058
+K is equal 5
+Precision is equal 0.8315585672797676
+Tenderness is equal 0.8368241597661958
+F1 is equal 0.8341830541393542
+Cost for size: 0.01 is equal 0.18149755832881173
+K is equal 5
+Precision is equal 0.8323727185398655
+Tenderness is equal 0.8441305406721871
+F1 is equal 0.838210399032648
+Cost for size: 0.02 is equal 0.13456321215409658
+K is equal 11
+Precision is equal 0.8705378391242266
+Tenderness is equal 0.8908913784705309
+F1 is equal 0.8805970149253731
+Cost for size: 0.03 is equal 0.1166576234400434
+K is equal 9
+Precision is equal 0.8697038724373576
+Tenderness is equal 0.9298587433024842
+F1 is equal 0.8987758945386065
+Cost for size: 0.075 is equal 0.11747151383613673
+K is equal 13
+Precision is equal 0.8695255474452555
+Tenderness is equal 0.9283974671212859
+F1 is equal 0.897997644287397
+Cost for size: 0.125 is equal 0.10824742268041238
+K is equal 13
+Precision is equal 0.8790100824931256
+Tenderness is equal 0.934242571846079
+F1 is equal 0.9057851239669422
+Cost for size: 0.25 is equal 0.09712425393380358
+K is equal 3
+Precision is equal 0.9116075764934434
+Tenderness is equal 0.9142717973697029
+F1 is equal 0.9129377431906616
+Cost for size: 0.5 is equal 0.07026587086272382
+K is equal 1
+Precision is equal 0.9304222648752399
+Tenderness is equal 0.9444715051144666
+F1 is equal 0.9373942470389172
+Cost for size: 0.625 is equal 0.06701030927835051
+K is equal 1
+Precision is equal 0.9341346153846154
+Tenderness is equal 0.9464198733560643
+F1 is equal 0.9402371158964433
+Cost for size: 0.75 is equal 0.06402604449267499
+K is equal 1
+Precision is equal 0.9365689572321
+Tenderness is equal 0.9493424257184608
+F1 is equal 0.9429124334784713
+Cost for size: 0.875 is equal 0.05534454693434617
+K is equal 1
+Precision is equal 0.9472665699080793
+Tenderness is equal 0.9537262542620555
+F1 is equal 0.9504854368932039
+Cost for size: 1 is equal 0.051003798155181766
+K is equal 1
+Precision is equal 0.9528897523069452
+Tenderness is equal 0.9556746225036532
+F1 is equal 0.9542801556420234
+
+Cost for size: 0.005 is equal 0.20618556701030927
+K is equal 3
+Precision is equal 0.7745222929936306
+Tenderness is equal 0.8884559181685339
+F1 is equal 0.8275862068965517
+Cost for size: 0.01 is equal 0.1587086272381986
+K is equal 8
+Precision is equal 0.8196864111498258
+Tenderness is equal 0.9167072576716999
+F1 is equal 0.8654863186939525
+Cost for size: 0.02 is equal 0.13510580575149214
+K is equal 11
+Precision is equal 0.8555098308184728
+Tenderness is equal 0.9113492450073064
+F1 is equal 0.8825471698113208
+Cost for size: 0.03 is equal 0.12669560499186108
+K is equal 13
+Precision is equal 0.8688372093023256
+Tenderness is equal 0.9098879688261081
+F1 is equal 0.8888888888888888
+Cost for size: 0.075 is equal 0.11096039066739012
+K is equal 15
+Precision is equal 0.892175572519084
+Tenderness is equal 0.910862152946907
+F1 is equal 0.9014220294046758
+Cost for size: 0.125 is equal 0.10119370591427021
+K is equal 10
+Precision is equal 0.891425908667288
+Tenderness is equal 0.9318071115440818
+F1 is equal 0.9111693260300071
+Cost for size: 0.25 is equal 0.09061313076505698
+K is equal 5
+Precision is equal 0.9202933985330073
+Tenderness is equal 0.9167072576716999
+F1 is equal 0.9184968277208393
+Cost for size: 0.5 is equal 0.0683667932718394
+K is equal 1
+Precision is equal 0.9386264003896736
+Tenderness is equal 0.9386264003896736
+F1 is equal 0.9386264003896736
+Cost for size: 0.625 is equal 0.05751492132392838
+K is equal 1
+Precision is equal 0.944900918318028
+Tenderness is equal 0.9522649780808573
+F1 is equal 0.9485686559922368
+Cost for size: 0.75 is equal 0.051003798155181766
+K is equal 1
+Precision is equal 0.949831162566329
+Tenderness is equal 0.9590842669264491
+F1 is equal 0.9544352884149298
+Cost for size: 0.875 is equal 0.049918610960390665
+K is equal 1
+Precision is equal 0.9507959479015919
+Tenderness is equal 0.960058451047248
+F1 is equal 0.9554047503635483
+Cost for size: 1 is equal 0.04774823657080846
+K is equal 1
+Precision is equal 0.9536007733204447
+Tenderness is equal 0.9610326351680467
+F1 is equal 0.9573022804463852
+
+Cost for size: 0.005 is equal 0.13537710255018992
+K is equal 6
+Precision is equal 0.8647887323943662
+Tenderness is equal 0.8972235752557234
+F1 is equal 0.8807076261056658
+Cost for size: 0.01 is equal 0.1432447097124254
+K is equal 7
+Precision is equal 0.8584861307005172
+Tenderness is equal 0.8894301022893327
+F1 is equal 0.8736842105263158
+Cost for size: 0.02 is equal 0.12940857297883884
+K is equal 12
+Precision is equal 0.8752380952380953
+Tenderness is equal 0.8952752070141257
+F1 is equal 0.8851432699253552
+Cost for size: 0.03 is equal 0.12018448182311449
+K is equal 14
+Precision is equal 0.8702851885924563
+Tenderness is equal 0.9215781782756941
+F1 is equal 0.8951975396262124
+Cost for size: 0.075 is equal 0.11258817145957678
+K is equal 19
+Precision is equal 0.8834269662921348
+Tenderness is equal 0.9191427179736971
+F1 is equal 0.9009310097875388
+Cost for size: 0.125 is equal 0.10526315789473684
+K is equal 14
+Precision is equal 0.8817056396148556
+Tenderness is equal 0.936678032148076
+F1 is equal 0.9083608880491261
+Cost for size: 0.25 is equal 0.09413998914812806
+K is equal 7
+Precision is equal 0.9136760426770126
+Tenderness is equal 0.9176814417924988
+F1 is equal 0.915674362089915
+Cost for size: 0.5 is equal 0.06863809007053717
+K is equal 1
+Precision is equal 0.9403131115459883
+Tenderness is equal 0.9361909400876766
+F1 is equal 0.9382474981693922
+Cost for size: 0.625 is equal 0.061313076505697235
+K is equal 1
+Precision is equal 0.9462628236443575
+Tenderness is equal 0.9434973209936678
+F1 is equal 0.9448780487804878
+Cost for size: 0.75 is equal 0.0529028757460662
+K is equal 1
+Precision is equal 0.950533462657614
+Tenderness is equal 0.9547004383828543
+F1 is equal 0.9526123936816524
+Cost for size: 0.875 is equal 0.050732501356483994
+K is equal 1
+Precision is equal 0.9529126213592233
+Tenderness is equal 0.9561617145640526
+F1 is equal 0.9545344031120837
+Cost for size: 1 is equal 0.04720564297341291
+K is equal 1
+Precision is equal 0.9558466763706939
+Tenderness is equal 0.9595713589868485
+F1 is equal 0.9577053962080699
+
+Cost for size: 0.005 is equal 0.211340206185567
+K is equal 5
+Precision is equal 0.7593648208469055
+Tenderness is equal 0.9084266926449099
+F1 is equal 0.8272344200487913
+Cost for size: 0.01 is equal 0.16277807921866522
+K is equal 7
+Precision is equal 0.830077237619264
+Tenderness is equal 0.8899171943497322
+F1 is equal 0.8589562764456982
+Cost for size: 0.02 is equal 0.13619099294628323
+K is equal 11
+Precision is equal 0.8507462686567164
+Tenderness is equal 0.9162201656113005
+F1 is equal 0.8822701688555347
+Cost for size: 0.03 is equal 0.14378730330982095
+K is equal 7
+Precision is equal 0.8456650022696324
+Tenderness is equal 0.9074525085241111
+F1 is equal 0.8754699248120302
+Cost for size: 0.075 is equal 0.10933260987520348
+K is equal 13
+Precision is equal 0.8753412192902639
+Tenderness is equal 0.9371651242084754
+F1 is equal 0.9051987767584099
+Cost for size: 0.125 is equal 0.0979381443298969
+K is equal 3
+Precision is equal 0.9001892147587511
+Tenderness is equal 0.9269361909400877
+F1 is equal 0.9133669306455483
+Cost for size: 0.25 is equal 0.09007053716766142
+K is equal 5
+Precision is equal 0.9076267171956419
+Tenderness is equal 0.9332683877252801
+F1 is equal 0.9202689721421711
+Cost for size: 0.5 is equal 0.07135105805751492
+K is equal 3
+Precision is equal 0.9340446168768186
+Tenderness is equal 0.9381393083292743
+F1 is equal 0.9360874848116647
+Cost for size: 0.625 is equal 0.06755290287574607
+K is equal 5
+Precision is equal 0.9353281853281853
+Tenderness is equal 0.9439844130540672
+F1 is equal 0.9396363636363636
+Cost for size: 0.75 is equal 0.06429734129137277
+K is equal 1
+Precision is equal 0.944662095984329
+Tenderness is equal 0.9396005845104725
+F1 is equal 0.942124542124542
+Cost for size: 0.875 is equal 0.0561584373304395
+K is equal 1
+Precision is equal 0.9524509803921568
+Tenderness is equal 0.9464198733560643
+F1 is equal 0.9494258490105058
+Cost for size: 1 is equal 0.04856212696690179
+K is equal 1
+Precision is equal 0.95751953125
+Tenderness is equal 0.9551875304432538
+F1 is equal 0.9563521092416484
+
+Cost for size: 0.005 is equal 0.18746608790016278
+K is equal 5
+Precision is equal 0.8042895442359249
+Tenderness is equal 0.8767657087189479
+F1 is equal 0.8389652761594033
+Cost for size: 0.01 is equal 0.15545306565382527
+K is equal 7
+Precision is equal 0.8375912408759124
+Tenderness is equal 0.8943010228933268
+F1 is equal 0.865017667844523
+Cost for size: 0.02 is equal 0.14948453608247422
+K is equal 7
+Precision is equal 0.8305457746478874
+Tenderness is equal 0.9191427179736971
+F1 is equal 0.8726011560693643
+Cost for size: 0.03 is equal 0.13266413456321216
+K is equal 7
+Precision is equal 0.8491071428571428
+Tenderness is equal 0.9264490988796883
+F1 is equal 0.886093640810622
+Cost for size: 0.075 is equal 0.11475854584915898
+K is equal 14
+Precision is equal 0.8654708520179372
+Tenderness is equal 0.9400876765708719
+F1 is equal 0.9012374503852439
+Cost for size: 0.125 is equal 0.1101465002712968
+K is equal 5
+Precision is equal 0.8864382918817456
+Tenderness is equal 0.9201169020944958
+F1 is equal 0.902963671128107
+Cost for size: 0.25 is equal 0.09088442756375474
+K is equal 13
+Precision is equal 0.9032863849765258
+Tenderness is equal 0.9371651242084754
+F1 is equal 0.9199139373655272
+Cost for size: 0.5 is equal 0.06429734129137277
+K is equal 1
+Precision is equal 0.9429268292682926
+Tenderness is equal 0.9415489527520702
+F1 is equal 0.9422373872776018
+Cost for size: 0.625 is equal 0.059413998914812804
+K is equal 1
+Precision is equal 0.9464459591041869
+Tenderness is equal 0.9469069654164637
+F1 is equal 0.9466764061358656
+Cost for size: 0.75 is equal 0.05154639175257732
+K is equal 1
+Precision is equal 0.9524040796503157
+Tenderness is equal 0.9551875304432538
+F1 is equal 0.9537937743190662
+Cost for size: 0.875 is equal 0.04693434617471514
+K is equal 1
+Precision is equal 0.9545454545454546
+Tenderness is equal 0.9615197272284461
+F1 is equal 0.9580198980829895
+Cost for size: 1 is equal 0.04096581660336408
+K is equal 1
+Precision is equal 0.9612027158098934
+Tenderness is equal 0.9654164637116415
+F1 is equal 0.9633049817739975
+
+Cost for size: 0.005 is equal 0.15545306565382527
+K is equal 4
+Precision is equal 0.839761248852158
+Tenderness is equal 0.8908913784705309
+F1 is equal 0.8645710233987236
+Cost for size: 0.01 is equal 0.16494845360824742
+K is equal 8
+Precision is equal 0.8539931406173444
+Tenderness is equal 0.8490014612761811
+F1 is equal 0.8514899853444065
+Cost for size: 0.02 is equal 0.14595767769940315
+K is equal 6
+Precision is equal 0.8463648834019204
+Tenderness is equal 0.901607403799318
+F1 is equal 0.8731132075471698
+Cost for size: 0.03 is equal 0.13320672816060772
+K is equal 5
+Precision is equal 0.8905
+Tenderness is equal 0.867510959571359
+F1 is equal 0.8788551690106094
+Cost for size: 0.075 is equal 0.112316874660879
+K is equal 9
+Precision is equal 0.8922929631402585
+Tenderness is equal 0.9079396005845105
+F1 is equal 0.9000482858522454
+Cost for size: 0.125 is equal 0.1068909386869235
+K is equal 7
+Precision is equal 0.8944365192582026
+Tenderness is equal 0.9162201656113005
+F1 is equal 0.9051973051010587
+Cost for size: 0.25 is equal 0.09088442756375474
+K is equal 1
+Precision is equal 0.9256689791873142
+Tenderness is equal 0.9098879688261081
+F1 is equal 0.91771063620732
+Cost for size: 0.5 is equal 0.06511123168746609
+K is equal 1
+Precision is equal 0.9480968858131488
+Tenderness is equal 0.934242571846079
+F1 is equal 0.9411187438665357
+Cost for size: 0.625 is equal 0.05588714053174173
+K is equal 1
+Precision is equal 0.9498295177788602
+Tenderness is equal 0.9498295177788602
+F1 is equal 0.9498295177788602
+Cost for size: 0.75 is equal 0.050189907759088444
+K is equal 1
+Precision is equal 0.9538386783284742
+Tenderness is equal 0.9561617145640526
+F1 is equal 0.9549987837509122
+Cost for size: 0.875 is equal 0.04449267498643516
+K is equal 1
+Precision is equal 0.9578284052350945
+Tenderness is equal 0.962493911349245
+F1 is equal 0.9601554907677357
+Cost for size: 1 is equal 0.040151926207270754
+K is equal 1
+Precision is equal 0.9626032054395337
+Tenderness is equal 0.9654164637116415
+F1 is equal 0.9640077821011672
+
+Cost for size: 0.005 is equal 0.22436245252306022
+K is equal 4
+Precision is equal 0.7644521138912856
+Tenderness is equal 0.8631271310277643
+F1 is equal 0.8107984442919242
+Cost for size: 0.01 is equal 0.18149755832881173
+K is equal 7
+Precision is equal 0.8227611940298507
+Tenderness is equal 0.859230394544569
+F1 is equal 0.8406004288777699
+Cost for size: 0.02 is equal 0.13917525773195877
+K is equal 9
+Precision is equal 0.8638941398865785
+Tenderness is equal 0.8904042864101315
+F1 is equal 0.8769489086111778
+Cost for size: 0.03 is equal 0.12316874660879001
+K is equal 9
+Precision is equal 0.8596491228070176
+Tenderness is equal 0.930832927423283
+F1 is equal 0.8938260056127221
+Cost for size: 0.075 is equal 0.10526315789473684
+K is equal 9
+Precision is equal 0.8910286519492719
+Tenderness is equal 0.9240136385776911
+F1 is equal 0.907221425155428
+Cost for size: 0.125 is equal 0.09848073792729246
+K is equal 7
+Precision is equal 0.9070327552986512
+Tenderness is equal 0.9171943497320993
+F1 is equal 0.9120852506660208
+Cost for size: 0.25 is equal 0.08898534997287032
+K is equal 7
+Precision is equal 0.9128769746290091
+Tenderness is equal 0.9288845591816853
+F1 is equal 0.920811202317721
+Cost for size: 0.5 is equal 0.06266956049918611
+K is equal 1
+Precision is equal 0.9470068694798822
+Tenderness is equal 0.9400876765708719
+F1 is equal 0.9435345881202639
+Cost for size: 0.625 is equal 0.05425935973955507
+K is equal 1
+Precision is equal 0.9521717911176184
+Tenderness is equal 0.9503166098392596
+F1 is equal 0.9512432959531937
+Cost for size: 0.75 is equal 0.048833423765599564
+K is equal 1
+Precision is equal 0.9574987787005373
+Tenderness is equal 0.9547004383828543
+F1 is equal 0.9560975609756097
+Cost for size: 0.875 is equal 0.04340748779164406
+K is equal 1
+Precision is equal 0.9610326351680467
+Tenderness is equal 0.9610326351680467
+F1 is equal 0.9610326351680467
+Cost for size: 1 is equal 0.040151926207270754
+K is equal 1
+Precision is equal 0.9648609077598829
+Tenderness is equal 0.9629810034096444
+F1 is equal 0.9639200390053632
+
+Cost for size: 0.005 is equal 0.2202930005425936
+K is equal 6
+Precision is equal 0.7798827244023455
+Tenderness is equal 0.8421821724305893
+F1 is equal 0.8098360655737704
+Cost for size: 0.01 is equal 0.21730873575691806
+K is equal 7
+Precision is equal 0.7663829787234042
+Tenderness is equal 0.8772528007793473
+F1 is equal 0.8180785827844652
+Cost for size: 0.02 is equal 0.17932718393922953
+K is equal 11
+Precision is equal 0.8007778738115817
+Tenderness is equal 0.9025815879201169
+F1 is equal 0.8486375085871308
+Cost for size: 0.03 is equal 0.15219750406945198
+K is equal 11
+Precision is equal 0.851555136663525
+Tenderness is equal 0.8801753531417438
+F1 is equal 0.8656287425149701
+Cost for size: 0.075 is equal 0.12615301139446555
+K is equal 5
+Precision is equal 0.8809980806142035
+Tenderness is equal 0.8943010228933268
+F1 is equal 0.8875997099347354
+Cost for size: 0.125 is equal 0.1112316874660879
+K is equal 11
+Precision is equal 0.8815606130980028
+Tenderness is equal 0.9245007306380906
+F1 is equal 0.9025202092249167
+Cost for size: 0.25 is equal 0.088171459576777
+K is equal 5
+Precision is equal 0.9153846153846154
+Tenderness is equal 0.927423283000487
+F1 is equal 0.9213646261795305
+Cost for size: 0.5 is equal 0.06755290287574607
+K is equal 1
+Precision is equal 0.937439379243453
+Tenderness is equal 0.9415489527520702
+F1 is equal 0.9394896719319563
+Cost for size: 0.625 is equal 0.06158437330439501
+K is equal 1
+Precision is equal 0.9419167473378509
+Tenderness is equal 0.9478811495372625
+F1 is equal 0.9448895362952173
+Cost for size: 0.75 is equal 0.05697232772653283
+K is equal 1
+Precision is equal 0.9479824987846378
+Tenderness is equal 0.9498295177788602
+F1 is equal 0.948905109489051
+Cost for size: 0.875 is equal 0.051817688551275096
+K is equal 1
+Precision is equal 0.9559255631733594
+Tenderness is equal 0.950803701899659
+F1 is equal 0.9533577533577533
+Cost for size: 1 is equal 0.04693434617471514
+K is equal 1
+Precision is equal 0.9607843137254902
+Tenderness is equal 0.9547004383828543
+F1 is equal 0.9577327143904226
+
+Cost for size: 0.005 is equal 0.19506239826370048
+K is equal 1
+Precision is equal 0.7915209790209791
+Tenderness is equal 0.8821237213833415
+F1 is equal 0.8343699608385164
+Cost for size: 0.01 is equal 0.18529571351058058
+K is equal 7
+Precision is equal 0.8060768543342269
+Tenderness is equal 0.8787140769605456
+F1 is equal 0.8408296434397576
+Cost for size: 0.02 is equal 0.15165491047205643
+K is equal 7
+Precision is equal 0.8414076782449725
+Tenderness is equal 0.896736483195324
+F1 is equal 0.8681914642772931
+Cost for size: 0.03 is equal 0.14297341291372762
+K is equal 6
+Precision is equal 0.8385093167701864
+Tenderness is equal 0.9206039941548952
+F1 is equal 0.8776410494543766
+Cost for size: 0.075 is equal 0.12723819858925664
+K is equal 21
+Precision is equal 0.8583710407239818
+Tenderness is equal 0.9240136385776911
+F1 is equal 0.889983579638752
+Cost for size: 0.125 is equal 0.11747151383613673
+K is equal 7
+Precision is equal 0.8708791208791209
+Tenderness is equal 0.9264490988796883
+F1 is equal 0.8978050507434506
+Cost for size: 0.25 is equal 0.09929462832338579
+K is equal 1
+Precision is equal 0.9018580276322058
+Tenderness is equal 0.9220652703360935
+F1 is equal 0.911849710982659
+Cost for size: 0.5 is equal 0.07135105805751492
+K is equal 1
+Precision is equal 0.9302884615384616
+Tenderness is equal 0.9425231368728689
+F1 is equal 0.9363658359545125
+Cost for size: 0.625 is equal 0.06212696690179056
+K is equal 1
+Precision is equal 0.9410058027079303
+Tenderness is equal 0.9478811495372625
+F1 is equal 0.9444309633584083
+Cost for size: 0.75 is equal 0.05697232772653283
+K is equal 1
+Precision is equal 0.9453842435959401
+Tenderness is equal 0.9527520701412567
+F1 is equal 0.9490538573508007
+Cost for size: 0.875 is equal 0.05317417254476397
+K is equal 1
+Precision is equal 0.947038998555609
+Tenderness is equal 0.9581100828056502
+F1 is equal 0.9525423728813559
+Cost for size: 1 is equal 0.050189907759088444
+K is equal 1
+Precision is equal 0.9507722007722008
+Tenderness is equal 0.9595713589868485
+F1 is equal 0.9551515151515151
+
+Cost for size: 0.005 is equal 0.19479110146500273
+K is equal 6
+Precision is equal 0.7908496732026143
+Tenderness is equal 0.8840720896249391
+F1 is equal 0.8348666053357866
+Cost for size: 0.01 is equal 0.15708084644601195
+K is equal 8
+Precision is equal 0.8304932735426009
+Tenderness is equal 0.9020944958597175
+F1 is equal 0.8648143824422134
+Cost for size: 0.02 is equal 0.12506782419967444
+K is equal 11
+Precision is equal 0.8761814744801513
+Tenderness is equal 0.9030686799805163
+F1 is equal 0.8894219237227152
+Cost for size: 0.03 is equal 0.11720021703743896
+K is equal 13
+Precision is equal 0.8675736961451247
+Tenderness is equal 0.9318071115440818
+F1 is equal 0.8985439173320808
+Cost for size: 0.075 is equal 0.10255018990775909
+K is equal 13
+Precision is equal 0.8839981659789088
+Tenderness is equal 0.939113492450073
+F1 is equal 0.9107227208313651
+Cost for size: 0.125 is equal 0.09495387954422138
+K is equal 7
+Precision is equal 0.9022201228153047
+Tenderness is equal 0.9303458353628836
+F1 is equal 0.9160671462829736
+Cost for size: 0.25 is equal 0.08735756918068367
+K is equal 17
+Precision is equal 0.9061473486625997
+Tenderness is equal 0.9405747686312713
+F1 is equal 0.9230401529636711
+Cost for size: 0.5 is equal 0.07107976125881714
+K is equal 1
+Precision is equal 0.935342732134176
+Tenderness is equal 0.9371651242084754
+F1 is equal 0.9362530413625304
+Cost for size: 0.625 is equal 0.06619641888225719
+K is equal 1
+Precision is equal 0.9401459854014599
+Tenderness is equal 0.9410618606916707
+F1 is equal 0.940603700097371
+Cost for size: 0.75 is equal 0.060499186109603906
+K is equal 1
+Precision is equal 0.9428848015488868
+Tenderness is equal 0.9488553336580614
+F1 is equal 0.9458606457878125
+Cost for size: 0.875 is equal 0.05425935973955507
+K is equal 1
+Precision is equal 0.9469368065605402
+Tenderness is equal 0.9561617145640526
+F1 is equal 0.9515269025690741
+Cost for size: 1 is equal 0.04964731416169289
+K is equal 1
+Precision is equal 0.9508196721311475
+Tenderness is equal 0.9605455431076474
+F1 is equal 0.9556578628543737
+
+Cost for size: 0.005 is equal 0.16684753119913184
+K is equal 5
+Precision is equal 0.8653455284552846
+Tenderness is equal 0.8295177788602046
+F1 is equal 0.8470529718975379
+Cost for size: 0.01 is equal 0.1741725447639718
+K is equal 6
+Precision is equal 0.8338854708944629
+Tenderness is equal 0.8582562104237701
+F1 is equal 0.8458953432549208
+Cost for size: 0.02 is equal 0.15301139446554532
+K is equal 8
+Precision is equal 0.8349077822762033
+Tenderness is equal 0.9040428641013152
+F1 is equal 0.8681010289990645
+Cost for size: 0.03 is equal 0.13809007053716765
+K is equal 9
+Precision is equal 0.853156450137237
+Tenderness is equal 0.9084266926449099
+F1 is equal 0.8799245104977589
+Cost for size: 0.075 is equal 0.1112316874660879
+K is equal 13
+Precision is equal 0.8847775175644028
+Tenderness is equal 0.9201169020944958
+F1 is equal 0.9021012416427889
+Cost for size: 0.125 is equal 0.10173629951166577
+K is equal 25
+Precision is equal 0.884862385321101
+Tenderness is equal 0.9396005845104725
+F1 is equal 0.9114103472714388
+Cost for size: 0.25 is equal 0.0925122083559414
+K is equal 8
+Precision is equal 0.8962962962962963
+Tenderness is equal 0.9430102289332684
+F1 is equal 0.9190600522193211
+Cost for size: 0.5 is equal 0.07623440043407488
+K is equal 1
+Precision is equal 0.9300970873786408
+Tenderness is equal 0.9332683877252801
+F1 is equal 0.9316800389010454
+Cost for size: 0.625 is equal 0.06429734129137277
+K is equal 1
+Precision is equal 0.9477317554240631
+Tenderness is equal 0.9361909400876766
+F1 is equal 0.941925998529772
+Cost for size: 0.75 is equal 0.05697232772653283
+K is equal 1
+Precision is equal 0.951052373959863
+Tenderness is equal 0.9464198733560643
+F1 is equal 0.9487304687499999
+Cost for size: 0.875 is equal 0.050189907759088444
+K is equal 1
+Precision is equal 0.9565004887585533
+Tenderness is equal 0.9532391622016562
+F1 is equal 0.9548670407416444
+Cost for size: 1 is equal 0.049376017362995114
+K is equal 1
+Precision is equal 0.9561189663578742
+Tenderness is equal 0.9551875304432538
+F1 is equal 0.9556530214424951
+
+Hammming
+
+Cost for size: 0.005 is equal 0.18610960390667391
+K is equal 3
+Precision is equal 0.8074673864147548
+Tenderness is equal 0.8743302484169508
+F1 is equal 0.8395696913002807
+Cost for size: 0.01 is equal 0.1673901247965274
+K is equal 5
+Precision is equal 0.8039796782387807
+Tenderness is equal 0.92498782269849
+F1 is equal 0.8602491506228765
+Cost for size: 0.02 is equal 0.15463917525773196
+K is equal 3
+Precision is equal 0.815129621759456
+Tenderness is equal 0.934242571846079
+F1 is equal 0.8706309577848389
+Cost for size: 0.03 is equal 0.12045577862181227
+K is equal 7
+Precision is equal 0.8496305953933072
+Tenderness is equal 0.9522649780808573
+F1 is equal 0.8980248047772162
+Cost for size: 0.075 is equal 0.09495387954422138
+K is equal 15
+Precision is equal 0.8823529411764706
+Tenderness is equal 0.9571358986848514
+F1 is equal 0.9182242990654205
+Cost for size: 0.125 is equal 0.08979924036896364
+K is equal 3
+Precision is equal 0.8956801470588235
+Tenderness is equal 0.9493424257184608
+F1 is equal 0.9217309056514542
+Cost for size: 0.25 is equal 0.0759631036353771
+K is equal 1
+Precision is equal 0.9203413940256046
+Tenderness is equal 0.9454456892352655
+F1 is equal 0.932724651609803
+Cost for size: 0.5 is equal 0.051275094953879545
+K is equal 1
+Precision is equal 0.946360153256705
+Tenderness is equal 0.962493911349245
+F1 is equal 0.9543588505191982
+Cost for size: 0.625 is equal 0.04557786218122626
+K is equal 1
+Precision is equal 0.9524723955832933
+Tenderness is equal 0.9663906478324403
+F1 is equal 0.9593810444874274
+Cost for size: 0.75 is equal 0.041779706999457406
+K is equal 1
+Precision is equal 0.9575903614457831
+Tenderness is equal 0.9678519240136386
+F1 is equal 0.9626937984496123
+Cost for size: 0.875 is equal 0.03906673901247965
+K is equal 1
+Precision is equal 0.9626757149781872
+Tenderness is equal 0.9673648319532392
+F1 is equal 0.9650145772594753
+Cost for size: 1 is equal 0.03716766142159523
+K is equal 1
+Precision is equal 0.9650485436893204
+Tenderness is equal 0.9683390160740379
+F1 is equal 0.9666909798200826
+
+Cost for size: 0.005 is equal 0.15545306565382527
+K is equal 6
+Precision is equal 0.8775510204081632
+Tenderness is equal 0.8377983438869946
+F1 is equal 0.8572140543234488
+Cost for size: 0.01 is equal 0.12181226261530113
+K is equal 8
+Precision is equal 0.8486956521739131
+Tenderness is equal 0.950803701899659
+F1 is equal 0.8968527452331725
+Cost for size: 0.02 is equal 0.11720021703743896
+K is equal 9
+Precision is equal 0.8600621945801866
+Tenderness is equal 0.9430102289332684
+F1 is equal 0.8996282527881041
+Cost for size: 0.03 is equal 0.11150298426478568
+K is equal 13
+Precision is equal 0.8714932126696833
+Tenderness is equal 0.9381393083292743
+F1 is equal 0.9035890218156228
+Cost for size: 0.075 is equal 0.09061313076505698
+K is equal 7
+Precision is equal 0.8966312874942317
+Tenderness is equal 0.9464198733560643
+F1 is equal 0.9208530805687204
+Cost for size: 0.125 is equal 0.07976125881714596
+K is equal 9
+Precision is equal 0.9047399907961344
+Tenderness is equal 0.9576229907452508
+F1 is equal 0.9304306672976811
+Cost for size: 0.25 is equal 0.06456863809007053
+K is equal 11
+Precision is equal 0.9187817258883249
+Tenderness is equal 0.9698002922552362
+F1 is equal 0.9436018957345972
+Cost for size: 0.5 is equal 0.04666304937601736
+K is equal 1
+Precision is equal 0.9532530120481928
+Tenderness is equal 0.9634680954700439
+F1 is equal 0.9583333333333334
+Cost for size: 0.625 is equal 0.042051003798155184
+K is equal 1
+Precision is equal 0.9566891241578441
+Tenderness is equal 0.9683390160740379
+F1 is equal 0.962478818687969
+Cost for size: 0.75 is equal 0.03798155181768855
+K is equal 1
+Precision is equal 0.9600769600769601
+Tenderness is equal 0.9722357525572333
+F1 is equal 0.9661181026137463
+Cost for size: 0.875 is equal 0.03553988062940857
+K is equal 1
+Precision is equal 0.9629094412331407
+Tenderness is equal 0.9736970287384316
+F1 is equal 0.9682731896342941
+Cost for size: 1 is equal 0.032284319045035266
+K is equal 1
+Precision is equal 0.9653512993262753
+Tenderness is equal 0.9771066731612275
+F1 is equal 0.9711934156378601
+
+Cost for size: 0.005 is equal 0.1584373304395008
+K is equal 5
+Precision is equal 0.8560349006301503
+Tenderness is equal 0.8602045786653677
+F1 is equal 0.858114674441205
+Cost for size: 0.01 is equal 0.12859468258274553
+K is equal 7
+Precision is equal 0.8808490110950313
+Tenderness is equal 0.8894301022893327
+F1 is equal 0.8851187590887057
+Cost for size: 0.02 is equal 0.10227889310906131
+K is equal 11
+Precision is equal 0.9136229022704837
+Tenderness is equal 0.901607403799318
+F1 is equal 0.9075753861240501
+Cost for size: 0.03 is equal 0.09983722192078133
+K is equal 9
+Precision is equal 0.9087821445900048
+Tenderness is equal 0.9123234291281052
+F1 is equal 0.9105493437044239
+Cost for size: 0.075 is equal 0.09305480195333696
+K is equal 5
+Precision is equal 0.9102687140115163
+Tenderness is equal 0.9240136385776911
+F1 is equal 0.9170896785109982
+Cost for size: 0.125 is equal 0.08003255561584373
+K is equal 7
+Precision is equal 0.9193702290076335
+Tenderness is equal 0.9386264003896736
+F1 is equal 0.9288985297662087
+Cost for size: 0.25 is equal 0.06619641888225719
+K is equal 7
+Precision is equal 0.9280643634642688
+Tenderness is equal 0.9551875304432538
+F1 is equal 0.941430628900624
+Cost for size: 0.5 is equal 0.04856212696690179
+K is equal 1
+Precision is equal 0.9566276803118908
+Tenderness is equal 0.9561617145640526
+F1 is equal 0.9563946406820949
+Cost for size: 0.625 is equal 0.04530656538252849
+K is equal 1
+Precision is equal 0.9591041869522883
+Tenderness is equal 0.9595713589868485
+F1 is equal 0.9593377160944728
+Cost for size: 0.75 is equal 0.042051003798155184
+K is equal 1
+Precision is equal 0.9602327837051406
+Tenderness is equal 0.9644422795908427
+F1 is equal 0.9623329283110572
+Cost for size: 0.875 is equal 0.03933803581117743
+K is equal 1
+Precision is equal 0.9622093023255814
+Tenderness is equal 0.9673648319532392
+F1 is equal 0.964780179742531
+Cost for size: 1 is equal 0.03662506782419967
+K is equal 1
+Precision is equal 0.9637330754352031
+Tenderness is equal 0.9707744763760351
+F1 is equal 0.9672409609318127
+
+Cost for size: 0.005 is equal 0.21052631578947367
+K is equal 3
+Precision is equal 0.7381574039537486
+Tenderness is equal 0.9639551875304433
+F1 is equal 0.8360794254330376
+Cost for size: 0.01 is equal 0.1608790016277808
+K is equal 3
+Precision is equal 0.7967479674796748
+Tenderness is equal 0.9547004383828543
+F1 is equal 0.8686018169731885
+Cost for size: 0.02 is equal 0.16169289202387413
+K is equal 3
+Precision is equal 0.7910507391130643
+Tenderness is equal 0.9644422795908427
+F1 is equal 0.8691834942932397
+Cost for size: 0.03 is equal 0.14460119370591426
+K is equal 11
+Precision is equal 0.7996845425867508
+Tenderness is equal 0.9878226984900146
+F1 is equal 0.8838526912181303
+Cost for size: 0.075 is equal 0.09522517634291916
+K is equal 11
+Precision is equal 0.8725919439579685
+Tenderness is equal 0.9707744763760351
+F1 is equal 0.9190684805164859
+Cost for size: 0.125 is equal 0.08952794357026587
+K is equal 23
+Precision is equal 0.8854586129753915
+Tenderness is equal 0.9639551875304433
+F1 is equal 0.9230410447761195
+Cost for size: 0.25 is equal 0.0683667932718394
+K is equal 5
+Precision is equal 0.9121281464530893
+Tenderness is equal 0.9707744763760351
+F1 is equal 0.9405379896177442
+Cost for size: 0.5 is equal 0.05154639175257732
+K is equal 1
+Precision is equal 0.9437827536922344
+Tenderness is equal 0.964929371651242
+F1 is equal 0.9542389210019268
+Cost for size: 0.625 is equal 0.050732501356483994
+K is equal 1
+Precision is equal 0.9498553519768563
+Tenderness is equal 0.9595713589868485
+F1 is equal 0.9546886358129392
+Cost for size: 0.75 is equal 0.04584915897992404
+K is equal 1
+Precision is equal 0.9568380213385063
+Tenderness is equal 0.9610326351680467
+F1 is equal 0.9589307411907655
+Cost for size: 0.875 is equal 0.042593597395550735
+K is equal 1
+Precision is equal 0.9588576960309777
+Tenderness is equal 0.964929371651242
+F1 is equal 0.9618839524156348
+Cost for size: 1 is equal 0.03906673901247965
+K is equal 1
+Precision is equal 0.962227602905569
+Tenderness is equal 0.9678519240136386
+F1 is equal 0.965031568722681
+
+Cost for size: 0.005 is equal 0.16901790558871405
+K is equal 6
+Precision is equal 0.8214928057553957
+Tenderness is equal 0.8899171943497322
+F1 is equal 0.8543371522094928
+Cost for size: 0.01 is equal 0.13754747693977212
+K is equal 8
+Precision is equal 0.8396309314586995
+Tenderness is equal 0.930832927423283
+F1 is equal 0.8828828828828829
+Cost for size: 0.02 is equal 0.10092240911557243
+K is equal 7
+Precision is equal 0.8962753418198963
+Tenderness is equal 0.9259620068192889
+F1 is equal 0.9108768567321515
+Cost for size: 0.03 is equal 0.09902333152468801
+K is equal 11
+Precision is equal 0.8864468864468864
+Tenderness is equal 0.9430102289332684
+F1 is equal 0.9138541420816615
+Cost for size: 0.075 is equal 0.08979924036896364
+K is equal 7
+Precision is equal 0.8945921173235564
+Tenderness is equal 0.950803701899659
+F1 is equal 0.9218417945690672
+Cost for size: 0.125 is equal 0.07677699403147042
+K is equal 7
+Precision is equal 0.9116279069767442
+Tenderness is equal 0.9547004383828543
+F1 is equal 0.9326671425172497
+Cost for size: 0.25 is equal 0.06402604449267499
+K is equal 7
+Precision is equal 0.9336515513126492
+Tenderness is equal 0.9527520701412567
+F1 is equal 0.9431051108968178
+Cost for size: 0.5 is equal 0.051817688551275096
+K is equal 3
+Precision is equal 0.94716618635927
+Tenderness is equal 0.9605455431076474
+F1 is equal 0.9538089480048367
+Cost for size: 0.625 is equal 0.050189907759088444
+K is equal 3
+Precision is equal 0.9486071085494716
+Tenderness is equal 0.9620068192888456
+F1 is equal 0.9552599758162031
+Cost for size: 0.75 is equal 0.04557786218122626
+K is equal 3
+Precision is equal 0.9529072561268621
+Tenderness is equal 0.9659035557720409
+F1 is equal 0.9593613933236574
+Cost for size: 0.875 is equal 0.043136190992946286
+K is equal 5
+Precision is equal 0.950952380952381
+Tenderness is equal 0.9727228446176327
+F1 is equal 0.9617144233084518
+Cost for size: 1 is equal 0.04096581660336408
+K is equal 7
+Precision is equal 0.9563339731285988
+Tenderness is equal 0.9707744763760351
+F1 is equal 0.9635001208605268
+
+Cost for size: 0.005 is equal 0.19669017905588715
+K is equal 5
+Precision is equal 0.7815945716709075
+Tenderness is equal 0.8977106673161227
+F1 is equal 0.8356381772840624
+Cost for size: 0.01 is equal 0.15111231687466087
+K is equal 7
+Precision is equal 0.828646748681898
+Tenderness is equal 0.9186556259132976
+F1 is equal 0.8713328713328713
+Cost for size: 0.02 is equal 0.12967986977753662
+K is equal 11
+Precision is equal 0.8604118993135011
+Tenderness is equal 0.9157330735509012
+F1 is equal 0.8872109485606419
+Cost for size: 0.03 is equal 0.12479652740097667
+K is equal 9
+Precision is equal 0.8723702664796634
+Tenderness is equal 0.9089137847053093
+F1 is equal 0.8902671755725191
+Cost for size: 0.075 is equal 0.09820944112859468
+K is equal 7
+Precision is equal 0.8876662081613939
+Tenderness is equal 0.9430102289332684
+F1 is equal 0.9145016532829475
+Cost for size: 0.125 is equal 0.08518719479110147
+K is equal 7
+Precision is equal 0.9012459621596678
+Tenderness is equal 0.9512907939600584
+F1 is equal 0.9255924170616114
+Cost for size: 0.25 is equal 0.06429734129137277
+K is equal 9
+Precision is equal 0.9266917293233082
+Tenderness is equal 0.9605455431076474
+F1 is equal 0.9433149964123415
+Cost for size: 0.5 is equal 0.05344546934346175
+K is equal 1
+Precision is equal 0.94106463878327
+Tenderness is equal 0.9644422795908427
+F1 is equal 0.9526100553283617
+Cost for size: 0.625 is equal 0.04801953336950624
+K is equal 1
+Precision is equal 0.9475190839694656
+Tenderness is equal 0.9673648319532392
+F1 is equal 0.9573391178597251
+Cost for size: 0.75 is equal 0.04584915897992404
+K is equal 1
+Precision is equal 0.9481446241674596
+Tenderness is equal 0.9707744763760351
+F1 is equal 0.9593261131167269
+Cost for size: 0.875 is equal 0.042322300596852956
+K is equal 1
+Precision is equal 0.9518818484992854
+Tenderness is equal 0.9732099366780321
+F1 is equal 0.9624277456647399
+Cost for size: 1 is equal 0.0396093326098752
+K is equal 1
+Precision is equal 0.9564384873145045
+Tenderness is equal 0.9732099366780321
+F1 is equal 0.9647513278609368
+
+Cost for size: 0.005 is equal 0.26288659793814434
+K is equal 3
+Precision is equal 0.7037593984962406
+Tenderness is equal 0.9118363370677058
+F1 is equal 0.7943984723106301
+Cost for size: 0.01 is equal 0.18366793271839393
+K is equal 7
+Precision is equal 0.7723673792557403
+Tenderness is equal 0.9503166098392596
+F1 is equal 0.8521511246997161
+Cost for size: 0.02 is equal 0.13727618014107434
+K is equal 9
+Precision is equal 0.8194960760016522
+Tenderness is equal 0.9663906478324403
+F1 is equal 0.8869021010281627
+Cost for size: 0.03 is equal 0.11475854584915898
+K is equal 11
+Precision is equal 0.8506884681583476
+Tenderness is equal 0.9629810034096444
+F1 is equal 0.9033584647018505
+Cost for size: 0.075 is equal 0.0914270211611503
+K is equal 11
+Precision is equal 0.8837209302325582
+Tenderness is equal 0.962493911349245
+F1 is equal 0.9214269060387037
+Cost for size: 0.125 is equal 0.07894736842105263
+K is equal 3
+Precision is equal 0.9151743638077285
+Tenderness is equal 0.9459327812956648
+F1 is equal 0.9302994011976048
+Cost for size: 0.25 is equal 0.0737927292457949
+K is equal 21
+Precision is equal 0.9082989454378725
+Tenderness is equal 0.964929371651242
+F1 is equal 0.9357581483230987
+Cost for size: 0.5 is equal 0.05860010851871948
+K is equal 1
+Precision is equal 0.9422243620606644
+Tenderness is equal 0.9532391622016562
+F1 is equal 0.9476997578692494
+Cost for size: 0.625 is equal 0.05154639175257732
+K is equal 1
+Precision is equal 0.9459071325993298
+Tenderness is equal 0.962493911349245
+F1 is equal 0.9541284403669724
+Cost for size: 0.75 is equal 0.04693434617471514
+K is equal 1
+Precision is equal 0.9484732824427481
+Tenderness is equal 0.9683390160740379
+F1 is equal 0.9583032055917088
+Cost for size: 0.875 is equal 0.04476397178513294
+K is equal 1
+Precision is equal 0.9512428298279159
+Tenderness is equal 0.9693132001948368
+F1 is equal 0.9601930036188179
+Cost for size: 1 is equal 0.041237113402061855
+K is equal 1
+Precision is equal 0.9554384283660757
+Tenderness is equal 0.9712615684364345
+F1 is equal 0.9632850241545894
+
+Cost for size: 0.005 is equal 0.18529571351058058
+K is equal 5
+Precision is equal 0.7753215434083601
+Tenderness is equal 0.9396005845104725
+F1 is equal 0.8495926007487339
+Cost for size: 0.01 is equal 0.16549104720564298
+K is equal 5
+Precision is equal 0.8068906848149724
+Tenderness is equal 0.9240136385776911
+F1 is equal 0.8614895549500454
+Cost for size: 0.02 is equal 0.11855670103092783
+K is equal 11
+Precision is equal 0.8587921847246892
+Tenderness is equal 0.9420360448124696
+F1 is equal 0.8984901277584205
+Cost for size: 0.03 is equal 0.11937059142702117
+K is equal 5
+Precision is equal 0.8657596371882086
+Tenderness is equal 0.9298587433024842
+F1 is equal 0.8966651009863784
+Cost for size: 0.075 is equal 0.09088442756375474
+K is equal 5
+Precision is equal 0.9059546313799622
+Tenderness is equal 0.9337554797856795
+F1 is equal 0.9196449988006716
+Cost for size: 0.125 is equal 0.08003255561584373
+K is equal 13
+Precision is equal 0.9088372093023256
+Tenderness is equal 0.9517778860204579
+F1 is equal 0.9298120390197477
+Cost for size: 0.25 is equal 0.07433532284319046
+K is equal 17
+Precision is equal 0.9146853146853147
+Tenderness is equal 0.9556746225036532
+F1 is equal 0.9347308242020009
+Cost for size: 0.5 is equal 0.05860010851871948
+K is equal 1
+Precision is equal 0.9417989417989417
+Tenderness is equal 0.9537262542620555
+F1 is equal 0.9477250726040657
+Cost for size: 0.625 is equal 0.051003798155181766
+K is equal 1
+Precision is equal 0.9463858305409286
+Tenderness is equal 0.9629810034096444
+F1 is equal 0.9546112988894254
+Cost for size: 0.75 is equal 0.04530656538252849
+K is equal 1
+Precision is equal 0.9520613614573347
+Tenderness is equal 0.9673648319532392
+F1 is equal 0.9596520898767819
+Cost for size: 0.875 is equal 0.042322300596852956
+K is equal 1
+Precision is equal 0.9562289562289562
+Tenderness is equal 0.9683390160740379
+F1 is equal 0.962245885769603
+Cost for size: 1 is equal 0.03933803581117743
+K is equal 1
+Precision is equal 0.9582132564841499
+Tenderness is equal 0.971748660496834
+F1 is equal 0.9649334945586457
+
+Cost for size: 0.005 is equal 0.18529571351058058
+K is equal 3
+Precision is equal 0.7927350427350427
+Tenderness is equal 0.9035557720409158
+F1 is equal 0.8445253812884133
+Cost for size: 0.01 is equal 0.13510580575149214
+K is equal 7
+Precision is equal 0.8364344439636521
+Tenderness is equal 0.9415489527520702
+F1 is equal 0.8858845096241978
+Cost for size: 0.02 is equal 0.1321215409658166
+K is equal 5
+Precision is equal 0.8470744680851063
+Tenderness is equal 0.930832927423283
+F1 is equal 0.8869807379902529
+Cost for size: 0.03 is equal 0.11421595225176343
+K is equal 7
+Precision is equal 0.8597883597883598
+Tenderness is equal 0.9498295177788602
+F1 is equal 0.9025688498032861
+Cost for size: 0.075 is equal 0.09522517634291916
+K is equal 9
+Precision is equal 0.8840252707581228
+Tenderness is equal 0.9542133463224549
+F1 is equal 0.9177793394237526
+Cost for size: 0.125 is equal 0.08762886597938144
+K is equal 9
+Precision is equal 0.8982504604051565
+Tenderness is equal 0.9503166098392596
+F1 is equal 0.9235502958579882
+Cost for size: 0.25 is equal 0.0759631036353771
+K is equal 5
+Precision is equal 0.9195456696639849
+Tenderness is equal 0.9464198733560643
+F1 is equal 0.9327892462794047
+Cost for size: 0.5 is equal 0.05778621812262615
+K is equal 1
+Precision is equal 0.944015444015444
+Tenderness is equal 0.9527520701412567
+F1 is equal 0.9483636363636364
+Cost for size: 0.625 is equal 0.05344546934346175
+K is equal 1
+Precision is equal 0.9474445515911283
+Tenderness is equal 0.9571358986848514
+F1 is equal 0.9522655682093529
+Cost for size: 0.75 is equal 0.04801953336950624
+K is equal 1
+Precision is equal 0.9553398058252427
+Tenderness is equal 0.9585971748660497
+F1 is equal 0.9569657184536834
+Cost for size: 0.875 is equal 0.043136190992946286
+K is equal 1
+Precision is equal 0.9588178294573644
+Tenderness is equal 0.9639551875304433
+F1 is equal 0.9613796453728444
+Cost for size: 1 is equal 0.040694519804666304
+K is equal 1
+Precision is equal 0.960774818401937
+Tenderness is equal 0.9663906478324403
+F1 is equal 0.9635745507527926
+
+Cost for size: 0.005 is equal 0.19641888225718937
+K is equal 4
+Precision is equal 0.8174868609651218
+Tenderness is equal 0.8334145153433999
+F1 is equal 0.8253738543174144
+Cost for size: 0.01 is equal 0.15165491047205643
+K is equal 6
+Precision is equal 0.8500468603561387
+Tenderness is equal 0.8835849975645397
+F1 is equal 0.8664915213756867
+Cost for size: 0.02 is equal 0.12126966901790559
+K is equal 6
+Precision is equal 0.8626919602529358
+Tenderness is equal 0.9303458353628836
+F1 is equal 0.8952425591750645
+Cost for size: 0.03 is equal 0.1079761258817146
+K is equal 6
+Precision is equal 0.8705776981639051
+Tenderness is equal 0.9469069654164637
+F1 is equal 0.9071395240317313
+Cost for size: 0.075 is equal 0.08762886597938144
+K is equal 7
+Precision is equal 0.9015784586815228
+Tenderness is equal 0.9459327812956648
+F1 is equal 0.9232231994295222
+Cost for size: 0.125 is equal 0.07325013564839934
+K is equal 3
+Precision is equal 0.9223117006158219
+Tenderness is equal 0.948368241597662
+F1 is equal 0.9351585014409222
+Cost for size: 0.25 is equal 0.061855670103092786
+K is equal 1
+Precision is equal 0.9368118717089516
+Tenderness is equal 0.9532391622016562
+F1 is equal 0.944954128440367
+Cost for size: 0.5 is equal 0.04666304937601736
+K is equal 1
+Precision is equal 0.9515122419587134
+Tenderness is equal 0.9654164637116415
+F1 is equal 0.9584139264990329
+Cost for size: 0.625 is equal 0.04096581660336408
+K is equal 1
+Precision is equal 0.958976833976834
+Tenderness is equal 0.9678519240136386
+F1 is equal 0.9633939393939395
+Cost for size: 0.75 is equal 0.03798155181768855
+K is equal 1
+Precision is equal 0.9605199807414541
+Tenderness is equal 0.971748660496834
+F1 is equal 0.9661016949152543
+Cost for size: 0.875 is equal 0.0363537710255019
+K is equal 1
+Precision is equal 0.9615199615199616
+Tenderness is equal 0.9736970287384316
+F1 is equal 0.9675701839303001
+Cost for size: 1 is equal 0.03391209983722192
+K is equal 1
+Precision is equal 0.9648023143683703
+Tenderness is equal 0.9746712128592304
+F1 is equal 0.9697116549551732
+
+
+
+Cost for size: 0.005 is equal 0.16874660879001627
+K is equal 3
+Precision is equal 0.833877741483901
+Tenderness is equal 0.8704335119337555
+F1 is equal 0.8517635843660629
+Cost for size: 0.01 is equal 0.12126966901790559
+K is equal 7
+Precision is equal 0.8525021949078139
+Tenderness is equal 0.9459327812956648
+F1 is equal 0.8967905795428307
+Cost for size: 0.02 is equal 0.11720021703743896
+K is equal 7
+Precision is equal 0.8480034349506226
+Tenderness is equal 0.9620068192888456
+F1 is equal 0.9014148790506618
+Cost for size: 0.03 is equal 0.11937059142702117
+K is equal 7
+Precision is equal 0.8415925455315544
+Tenderness is equal 0.9678519240136386
+F1 is equal 0.9003171726325327
+Cost for size: 0.075 is equal 0.0914270211611503
+K is equal 7
+Precision is equal 0.8809946714031972
+Tenderness is equal 0.9663906478324403
+F1 is equal 0.9217189314750291
+Cost for size: 0.125 is equal 0.08003255561584373
+K is equal 17
+Precision is equal 0.898458748866727
+Tenderness is equal 0.9654164637116415
+F1 is equal 0.9307349142991312
+Cost for size: 0.25 is equal 0.0705371676614216
+K is equal 5
+Precision is equal 0.9163957268927079
+Tenderness is equal 0.9610326351680467
+F1 is equal 0.9381835473133618
+Cost for size: 0.5 is equal 0.05561584373304395
+K is equal 1
+Precision is equal 0.9366729678638941
+Tenderness is equal 0.9654164637116415
+F1 is equal 0.9508275365795155
+Cost for size: 0.625 is equal 0.04639175257731959
+K is equal 1
+Precision is equal 0.9455492424242424
+Tenderness is equal 0.9727228446176327
+F1 is equal 0.9589435774309725
+Cost for size: 0.75 is equal 0.040694519804666304
+K is equal 1
+Precision is equal 0.9528795811518325
+Tenderness is equal 0.9751583049196298
+F1 is equal 0.9638902262879153
+Cost for size: 0.875 is equal 0.03716766142159523
+K is equal 1
+Precision is equal 0.9570610687022901
+Tenderness is equal 0.9771066731612275
+F1 is equal 0.9669799951795613
+Cost for size: 1 is equal 0.033640803038524146
+K is equal 1
+Precision is equal 0.9617041646720919
+Tenderness is equal 0.9785679493424257
+F1 is equal 0.9700627716079189
+
+Cost for size: 0.005 is equal 0.237927292457949
+K is equal 5
+Precision is equal 0.739413680781759
+Tenderness is equal 0.8845591816853385
+F1 is equal 0.8055001108893325
+Cost for size: 0.01 is equal 0.14378730330982095
+K is equal 7
+Precision is equal 0.8546809501630181
+Tenderness is equal 0.8938139308329274
+F1 is equal 0.8738095238095237
+Cost for size: 0.02 is equal 0.10472056429734129
+K is equal 11
+Precision is equal 0.8893040635217189
+Tenderness is equal 0.927423283000487
+F1 is equal 0.9079637577491655
+Cost for size: 0.03 is equal 0.10092240911557243
+K is equal 9
+Precision is equal 0.8896615669911915
+Tenderness is equal 0.9347296639064783
+F1 is equal 0.9116389548693586
+Cost for size: 0.075 is equal 0.08355941399891481
+K is equal 11
+Precision is equal 0.904122278832793
+Tenderness is equal 0.950803701899659
+F1 is equal 0.9268755935422602
+Cost for size: 0.125 is equal 0.07894736842105263
+K is equal 15
+Precision is equal 0.9105312208760484
+Tenderness is equal 0.9517778860204579
+F1 is equal 0.9306977851869492
+Cost for size: 0.25 is equal 0.06890938686923494
+K is equal 23
+Precision is equal 0.9135632183908046
+Tenderness is equal 0.9678519240136386
+F1 is equal 0.9399243140964995
+Cost for size: 0.5 is equal 0.05670103092783505
+K is equal 1
+Precision is equal 0.9497560975609756
+Tenderness is equal 0.948368241597662
+F1 is equal 0.9490616621983914
+Cost for size: 0.625 is equal 0.051817688551275096
+K is equal 1
+Precision is equal 0.9515033947623667
+Tenderness is equal 0.9556746225036532
+F1 is equal 0.953584447144593
+Cost for size: 0.75 is equal 0.048833423765599564
+K is equal 1
+Precision is equal 0.9561617145640526
+Tenderness is equal 0.9561617145640526
+F1 is equal 0.9561617145640526
+Cost for size: 0.875 is equal 0.04395008138903961
+K is equal 1
+Precision is equal 0.9600973236009732
+Tenderness is equal 0.9610326351680467
+F1 is equal 0.9605647517039922
+Cost for size: 1 is equal 0.04042322300596853
+K is equal 1
+Precision is equal 0.9607938044530494
+Tenderness is equal 0.9668777398928398
+F1 is equal 0.9638261714008255
+
+Cost for size: 0.005 is equal 0.21269669017905588
+K is equal 1
+Precision is equal 0.7435700575815739
+Tenderness is equal 0.9434973209936678
+F1 is equal 0.8316874194933448
+Cost for size: 0.01 is equal 0.16549104720564298
+K is equal 1
+Precision is equal 0.7919870497774181
+Tenderness is equal 0.9532391622016562
+F1 is equal 0.8651635720601237
+Cost for size: 0.02 is equal 0.1367335865436788
+K is equal 5
+Precision is equal 0.8191182529872271
+Tenderness is equal 0.9683390160740379
+F1 is equal 0.8875
+Cost for size: 0.03 is equal 0.11855670103092783
+K is equal 3
+Precision is equal 0.8444160272804774
+Tenderness is equal 0.964929371651242
+F1 is equal 0.900659240736531
+Cost for size: 0.075 is equal 0.08464460119370591
+K is equal 7
+Precision is equal 0.8867170146601511
+Tenderness is equal 0.9722357525572333
+F1 is equal 0.9275092936802974
+Cost for size: 0.125 is equal 0.07650569723277266
+K is equal 5
+Precision is equal 0.9097639981490051
+Tenderness is equal 0.9576229907452508
+F1 is equal 0.933080208827717
+Cost for size: 0.25 is equal 0.06999457406402604
+K is equal 7
+Precision is equal 0.9134039613081529
+Tenderness is equal 0.9659035557720409
+F1 is equal 0.9389204545454545
+Cost for size: 0.5 is equal 0.05588714053174173
+K is equal 1
+Precision is equal 0.9511480214948705
+Tenderness is equal 0.948368241597662
+F1 is equal 0.9497560975609756
+Cost for size: 0.625 is equal 0.048833423765599564
+K is equal 1
+Precision is equal 0.9557177615571776
+Tenderness is equal 0.9566488066244521
+F1 is equal 0.9561830574488802
+Cost for size: 0.75 is equal 0.04557786218122626
+K is equal 1
+Precision is equal 0.9573022804463852
+Tenderness is equal 0.9610326351680467
+F1 is equal 0.9591638308215847
+Cost for size: 0.875 is equal 0.041779706999457406
+K is equal 1
+Precision is equal 0.9598062953995158
+Tenderness is equal 0.9654164637116415
+F1 is equal 0.9626032054395337
+Cost for size: 1 is equal 0.03933803581117743
+K is equal 1
+Precision is equal 0.9622093023255814
+Tenderness is equal 0.9673648319532392
+F1 is equal 0.964780179742531
+
+Cost for size: 0.005 is equal 0.20347259902333154
+K is equal 6
+Precision is equal 0.7768805779855503
+Tenderness is equal 0.8904042864101315
+F1 is equal 0.8297775760326828
+Cost for size: 0.01 is equal 0.16793271839392296
+K is equal 7
+Precision is equal 0.8192341941228851
+Tenderness is equal 0.8962493911349245
+F1 is equal 0.8560130262851826
+Cost for size: 0.02 is equal 0.11638632664134563
+K is equal 9
+Precision is equal 0.8885167464114833
+Tenderness is equal 0.9045299561617146
+F1 is equal 0.8964518464880522
+Cost for size: 0.03 is equal 0.10282148670645687
+K is equal 11
+Precision is equal 0.8978136882129277
+Tenderness is equal 0.9201169020944958
+F1 is equal 0.9088284820784219
+Cost for size: 0.075 is equal 0.08979924036896364
+K is equal 7
+Precision is equal 0.9119617224880383
+Tenderness is equal 0.9283974671212859
+F1 is equal 0.9201062032343713
+Cost for size: 0.125 is equal 0.08627238198589257
+K is equal 7
+Precision is equal 0.9048063462435838
+Tenderness is equal 0.9444715051144666
+F1 is equal 0.9242135367016205
+Cost for size: 0.25 is equal 0.07216494845360824
+K is equal 9
+Precision is equal 0.9188935771214253
+Tenderness is equal 0.9547004383828543
+F1 is equal 0.9364548494983277
+Cost for size: 0.5 is equal 0.061041779706999456
+K is equal 7
+Precision is equal 0.9311320754716981
+Tenderness is equal 0.9615197272284461
+F1 is equal 0.9460819554277499
+Cost for size: 0.625 is equal 0.05425935973955507
+K is equal 1
+Precision is equal 0.9405611031859249
+Tenderness is equal 0.9634680954700439
+F1 is equal 0.9518768046198267
+Cost for size: 0.75 is equal 0.048833423765599564
+K is equal 1
+Precision is equal 0.9461648404001906
+Tenderness is equal 0.9673648319532392
+F1 is equal 0.9566473988439306
+Cost for size: 0.875 is equal 0.04503526858383071
+K is equal 1
+Precision is equal 0.9512195121951219
+Tenderness is equal 0.9688261081344374
+F1 is equal 0.959942084942085
+Cost for size: 1 is equal 0.04286489419424851
+K is equal 1
+Precision is equal 0.9535662996649115
+Tenderness is equal 0.9702873843156357
+F1 is equal 0.9618541767262192
+
+Cost for size: 0.005 is equal 0.17715680954964733
+K is equal 3
+Precision is equal 0.7951096121416527
+Tenderness is equal 0.9186556259132976
+F1 is equal 0.8524293785310734
+Cost for size: 0.01 is equal 0.12181226261530113
+K is equal 7
+Precision is equal 0.8668801463860933
+Tenderness is equal 0.9230394544568924
+F1 is equal 0.894078792167964
+Cost for size: 0.02 is equal 0.11475854584915898
+K is equal 5
+Precision is equal 0.8724862888482633
+Tenderness is equal 0.9298587433024842
+F1 is equal 0.9002593727894366
+Cost for size: 0.03 is equal 0.11502984264785676
+K is equal 7
+Precision is equal 0.8707328174783796
+Tenderness is equal 0.9318071115440818
+F1 is equal 0.9002352941176469
+Cost for size: 0.075 is equal 0.08871405317417254
+K is equal 9
+Precision is equal 0.8976958525345622
+Tenderness is equal 0.9488553336580614
+F1 is equal 0.9225668955718684
+Cost for size: 0.125 is equal 0.08247422680412371
+K is equal 7
+Precision is equal 0.9016995865870464
+Tenderness is equal 0.9561617145640526
+F1 is equal 0.9281323877068558
+Cost for size: 0.25 is equal 0.06646771568095497
+K is equal 1
+Precision is equal 0.9321223709369025
+Tenderness is equal 0.9498295177788602
+F1 is equal 0.9408926417370326
+Cost for size: 0.5 is equal 0.04910472056429734
+K is equal 1
+Precision is equal 0.9469914040114613
+Tenderness is equal 0.9659035557720409
+F1 is equal 0.9563539908367494
+Cost for size: 0.625 is equal 0.04612045577862181
+K is equal 1
+Precision is equal 0.9532980259990371
+Tenderness is equal 0.9644422795908427
+F1 is equal 0.9588377723970944
+Cost for size: 0.75 is equal 0.03879544221378188
+K is equal 1
+Precision is equal 0.9595765158806545
+Tenderness is equal 0.9712615684364345
+F1 is equal 0.9653836843379328
+Cost for size: 0.875 is equal 0.03608247422680412
+K is equal 1
+Precision is equal 0.9615384615384616
+Tenderness is equal 0.974184120798831
+F1 is equal 0.9678199854827002
+Cost for size: 1 is equal 0.03391209983722192
+K is equal 1
+Precision is equal 0.96390760346487
+Tenderness is equal 0.9756453969800293
+F1 is equal 0.9697409828128782
+
+Cost for size: 0.005 is equal 0.18556701030927836
+K is equal 5
+Precision is equal 0.8337396392003901
+Tenderness is equal 0.8329274232830005
+F1 is equal 0.8333333333333333
+Cost for size: 0.01 is equal 0.1562669560499186
+K is equal 8
+Precision is equal 0.8765935747067822
+Tenderness is equal 0.8373112518265953
+F1 is equal 0.8565022421524663
+Cost for size: 0.02 is equal 0.12642430819316333
+K is equal 8
+Precision is equal 0.8914652195362605
+Tenderness is equal 0.8801753531417438
+F1 is equal 0.8857843137254902
+Cost for size: 0.03 is equal 0.11150298426478568
+K is equal 14
+Precision is equal 0.8985436893203883
+Tenderness is equal 0.901607403799318
+F1 is equal 0.900072939460248
+Cost for size: 0.075 is equal 0.07948996201844818
+K is equal 5
+Precision is equal 0.9263565891472868
+Tenderness is equal 0.9313200194836824
+F1 is equal 0.9288316735487004
+Cost for size: 0.125 is equal 0.06918068366793272
+K is equal 5
+Precision is equal 0.9322115384615385
+Tenderness is equal 0.9444715051144666
+F1 is equal 0.9383014759254779
+Cost for size: 0.25 is equal 0.061855670103092786
+K is equal 9
+Precision is equal 0.9372304743651174
+Tenderness is equal 0.9527520701412567
+F1 is equal 0.9449275362318842
+Cost for size: 0.5 is equal 0.049376017362995114
+K is equal 1
+Precision is equal 0.9435751541014699
+Tenderness is equal 0.9693132001948368
+F1 is equal 0.956271023546372
+Cost for size: 0.625 is equal 0.042593597395550735
+K is equal 1
+Precision is equal 0.9509990485252141
+Tenderness is equal 0.9736970287384316
+F1 is equal 0.9622141997593261
+Cost for size: 0.75 is equal 0.040151926207270754
+K is equal 1
+Precision is equal 0.9542203147353362
+Tenderness is equal 0.9746712128592304
+F1 is equal 0.9643373493975904
+Cost for size: 0.875 is equal 0.03662506782419967
+K is equal 1
+Precision is equal 0.9571020019065777
+Tenderness is equal 0.9780808572820263
+F1 is equal 0.9674777162129607
+Cost for size: 1 is equal 0.03391209983722192
+K is equal 1
+Precision is equal 0.9599236641221374
+Tenderness is equal 0.9800292255236239
+F1 is equal 0.969872258375512
+
+Cost for size: 0.005 is equal 0.21296798697775365
+K is equal 1
+Precision is equal 0.7498029944838456
+Tenderness is equal 0.9269361909400877
+F1 is equal 0.8290132868656067
+Cost for size: 0.01 is equal 0.1741725447639718
+K is equal 1
+Precision is equal 0.7859748682610458
+Tenderness is equal 0.9444715051144666
+F1 is equal 0.8579646017699115
+Cost for size: 0.02 is equal 0.14812805208898536
+K is equal 1
+Precision is equal 0.8143512724238632
+Tenderness is equal 0.950803701899659
+F1 is equal 0.8773033707865169
+Cost for size: 0.03 is equal 0.13157894736842105
+K is equal 5
+Precision is equal 0.820785597381342
+Tenderness is equal 0.9771066731612275
+F1 is equal 0.8921503224371803
+Cost for size: 0.075 is equal 0.11204557786218122
+K is equal 1
+Precision is equal 0.8707052441229657
+Tenderness is equal 0.9381393083292743
+F1 is equal 0.9031652989449003
+Cost for size: 0.125 is equal 0.0925122083559414
+K is equal 3
+Precision is equal 0.8831692032229186
+Tenderness is equal 0.9610326351680467
+F1 is equal 0.920457196174481
+Cost for size: 0.25 is equal 0.07840477482365708
+K is equal 1
+Precision is equal 0.9075785582255084
+Tenderness is equal 0.9566488066244521
+F1 is equal 0.9314678681527151
+Cost for size: 0.5 is equal 0.0550732501356484
+K is equal 1
+Precision is equal 0.9342723004694836
+Tenderness is equal 0.9693132001948368
+F1 is equal 0.9514702366722448
+Cost for size: 0.625 is equal 0.049918610960390665
+K is equal 1
+Precision is equal 0.942262186464742
+Tenderness is equal 0.9698002922552362
+F1 is equal 0.9558329332693231
+Cost for size: 0.75 is equal 0.04584915897992404
+K is equal 1
+Precision is equal 0.9468690702087287
+Tenderness is equal 0.9722357525572333
+F1 is equal 0.9593847632780581
+Cost for size: 0.875 is equal 0.040151926207270754
+K is equal 1
+Precision is equal 0.9520645467489322
+Tenderness is equal 0.9771066731612275
+F1 is equal 0.9644230769230769
+Cost for size: 1 is equal 0.0385241454150841
+K is equal 1
+Precision is equal 0.9522006625650734
+Tenderness is equal 0.9800292255236239
+F1 is equal 0.9659145463274125
+
+Cost for size: 0.005 is equal 0.20727075420510038
+K is equal 5
+Precision is equal 0.7532416502946955
+Tenderness is equal 0.9337554797856795
+F1 is equal 0.8338408003479774
+Cost for size: 0.01 is equal 0.15952251763429193
+K is equal 5
+Precision is equal 0.7917164476304261
+Tenderness is equal 0.9683390160740379
+F1 is equal 0.8711656441717791
+Cost for size: 0.02 is equal 0.1342919153553988
+K is equal 5
+Precision is equal 0.8270361041141897
+Tenderness is equal 0.9595713589868485
+F1 is equal 0.8883878241262684
+Cost for size: 0.03 is equal 0.12805208898534998
+K is equal 11
+Precision is equal 0.8342494714587738
+Tenderness is equal 0.9610326351680467
+F1 is equal 0.8931643277501131
+Cost for size: 0.075 is equal 0.09386869234943028
+K is equal 3
+Precision is equal 0.9043107531975367
+Tenderness is equal 0.9298587433024842
+F1 is equal 0.9169068203650337
+Cost for size: 0.125 is equal 0.07759088442756376
+K is equal 3
+Precision is equal 0.9221213569039656
+Tenderness is equal 0.9400876765708719
+F1 is equal 0.9310178485287023
+Cost for size: 0.25 is equal 0.07026587086272382
+K is equal 7
+Precision is equal 0.9275500476644424
+Tenderness is equal 0.9478811495372625
+F1 is equal 0.9376053962900506
+Cost for size: 0.5 is equal 0.0529028757460662
+K is equal 1
+Precision is equal 0.9466346153846154
+Tenderness is equal 0.9590842669264491
+F1 is equal 0.9528187757077184
+Cost for size: 0.625 is equal 0.04964731416169289
+K is equal 1
+Precision is equal 0.9503853564547207
+Tenderness is equal 0.9610326351680467
+F1 is equal 0.9556793412448534
+Cost for size: 0.75 is equal 0.04476397178513294
+K is equal 1
+Precision is equal 0.9516746411483253
+Tenderness is equal 0.9688261081344374
+F1 is equal 0.9601737871107893
+Cost for size: 0.875 is equal 0.040151926207270754
+K is equal 1
+Precision is equal 0.9550883898709985
+Tenderness is equal 0.9736970287384316
+F1 is equal 0.9643029425952725
+Cost for size: 1 is equal 0.037438958220293
+K is equal 1
+Precision is equal 0.9587925251557259
+Tenderness is equal 0.9746712128592304
+F1 is equal 0.9666666666666666
+
+Cost for size: 0.005 is equal 0.17118827997829625
+K is equal 5
+Precision is equal 0.8438104448742747
+Tenderness is equal 0.84997564539698
+F1 is equal 0.8468818247998059
+Cost for size: 0.01 is equal 0.149755832881172
+K is equal 7
+Precision is equal 0.8606439211917347
+Tenderness is equal 0.8723818801753531
+F1 is equal 0.8664731494920174
+Cost for size: 0.02 is equal 0.11611502984264786
+K is equal 11
+Precision is equal 0.8881987577639752
+Tenderness is equal 0.9055041402825134
+F1 is equal 0.8967679691268693
+Cost for size: 0.03 is equal 0.10526315789473684
+K is equal 9
+Precision is equal 0.887750349324639
+Tenderness is equal 0.9283974671212859
+F1 is equal 0.9076190476190475
+Cost for size: 0.075 is equal 0.08681497558328811
+K is equal 15
+Precision is equal 0.8947608200455581
+Tenderness is equal 0.9566488066244521
+F1 is equal 0.9246704331450095
+Cost for size: 0.125 is equal 0.08518719479110147
+K is equal 9
+Precision is equal 0.8986703347088492
+Tenderness is equal 0.9547004383828543
+F1 is equal 0.9258384506376949
+Cost for size: 0.25 is equal 0.07623440043407488
+K is equal 7
+Precision is equal 0.9109461966604824
+Tenderness is equal 0.9566488066244521
+F1 is equal 0.9332382988833452
+Cost for size: 0.5 is equal 0.061313076505697235
+K is equal 1
+Precision is equal 0.9410912602607436
+Tenderness is equal 0.9493424257184608
+F1 is equal 0.9451988360814744
+Cost for size: 0.625 is equal 0.052360282148670646
+K is equal 1
+Precision is equal 0.9475457170356112
+Tenderness is equal 0.9590842669264491
+F1 is equal 0.9532800774630839
+Cost for size: 0.75 is equal 0.04612045577862181
+K is equal 1
+Precision is equal 0.9532980259990371
+Tenderness is equal 0.9644422795908427
+F1 is equal 0.9588377723970944
+Cost for size: 0.875 is equal 0.04422137818773739
+K is equal 1
+Precision is equal 0.9552023121387283
+Tenderness is equal 0.9659035557720409
+F1 is equal 0.9605231290869459
+Cost for size: 1 is equal 0.040694519804666304
+K is equal 1
+Precision is equal 0.9585542168674699
+Tenderness is equal 0.9688261081344374
+F1 is equal 0.9636627906976744
+
+Cost for size: 0.005 is equal 0.20672816060770483
+K is equal 3
+Precision is equal 0.7724778387505277
+Tenderness is equal 0.8913784705309303
+F1 is equal 0.8276797829036635
+Cost for size: 0.01 is equal 0.1782419967444384
+K is equal 7
+Precision is equal 0.7754538279400158
+Tenderness is equal 0.9571358986848514
+F1 is equal 0.8567691301504251
+Cost for size: 0.02 is equal 0.11747151383613673
+K is equal 11
+Precision is equal 0.8658536585365854
+Tenderness is equal 0.9337554797856795
+F1 is equal 0.8985235528474337
+Cost for size: 0.03 is equal 0.10987520347259902
+K is equal 13
+Precision is equal 0.8705035971223022
+Tenderness is equal 0.9430102289332684
+F1 is equal 0.9053074584989478
+Cost for size: 0.075 is equal 0.08545849158979923
+K is equal 23
+Precision is equal 0.8982584784601283
+Tenderness is equal 0.9547004383828543
+F1 is equal 0.9256198347107438
+Cost for size: 0.125 is equal 0.0759631036353771
+K is equal 5
+Precision is equal 0.924772400574988
+Tenderness is equal 0.9400876765708719
+F1 is equal 0.9323671497584541
+Cost for size: 0.25 is equal 0.0705371676614216
+K is equal 7
+Precision is equal 0.9324650265315967
+Tenderness is equal 0.9415489527520702
+F1 is equal 0.9369849733397965
+Cost for size: 0.5 is equal 0.0539880629408573
+K is equal 1
+Precision is equal 0.95263671875
+Tenderness is equal 0.9503166098392596
+F1 is equal 0.9514752499390393
+Cost for size: 0.625 is equal 0.049376017362995114
+K is equal 1
+Precision is equal 0.9592538046146294
+Tenderness is equal 0.9517778860204579
+F1 is equal 0.9555012224938875
+Cost for size: 0.75 is equal 0.04639175257731959
+K is equal 1
+Precision is equal 0.960822722820764
+Tenderness is equal 0.9556746225036532
+F1 is equal 0.9582417582417583
+Cost for size: 0.875 is equal 0.043678784590341836
+K is equal 1
+Precision is equal 0.9646365422396856
+Tenderness is equal 0.9566488066244521
+F1 is equal 0.9606260699437515
+Cost for size: 1 is equal 0.040694519804666304
+K is equal 1
+Precision is equal 0.9661930426261637
+Tenderness is equal 0.9605455431076474
+F1 is equal 0.963361016121153
+

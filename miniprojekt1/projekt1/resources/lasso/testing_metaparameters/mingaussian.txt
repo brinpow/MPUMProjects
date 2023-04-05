@@ -1,0 +1,240 @@
+Minimal alpha 1
+Minimal lambda 50.0
+Minimal cost: [140647.05852138]
+Minimal theta: [[  0.        ]
+ [108.94114343]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [371.13398302]]
+
+
+Minimal alpha 2
+Minimal lambda 50.0
+Minimal cost: [141631.07841062]
+Minimal theta: [[239.26248246]
+ [ 74.42771985]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [148.54367112]]
+
+
+Minimal alpha 3
+Minimal lambda 50.0
+Minimal cost: [141741.15745079]
+Minimal theta: [[357.65433129]
+ [ 34.94611145]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [ 67.63422681]]
+
+
+Minimal alpha 4
+Minimal lambda 50.0
+Minimal cost: [141759.70002654]
+Minimal theta: [[401.74552794]
+ [ 19.91481449]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [ 38.19856415]]
+
+
+Minimal alpha 5
+Minimal lambda 50.0
+Minimal cost: [141764.41712213]
+Minimal theta: [[422.46382516]
+ [ 12.80830843]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [ 24.47437619]]
+
+
+Minimal alpha 6
+Minimal lambda 50.0
+Minimal cost: [141765.93054018]
+Minimal theta: [[433.7832906 ]
+ [  8.91581017]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [ 17.00301139]]
+
+
+Minimal alpha 7
+Minimal lambda 50.0
+Minimal cost: [141766.48319744]
+Minimal theta: [[440.62770865]
+ [  6.55911714]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [ 12.49422997]]
+
+
+Minimal alpha 8
+Minimal lambda 50.0
+Minimal cost: [141766.69643323]
+Minimal theta: [[445.07699922]
+ [  5.0259605 ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  9.56673954]]
+
+
+Minimal alpha 9
+Minimal lambda 50.0
+Minimal cost: [141766.77632342]
+Minimal theta: [[448.13039859]
+ [  3.97329802]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  7.55926985]]
+
+
+Minimal alpha 10
+Minimal lambda 50.0
+Minimal cost: [141766.80033712]
+Minimal theta: [[450.31589591]
+ [  3.21959876]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  6.1231822 ]]
+
+
+Minimal alpha 1
+Minimal lambda 0.645774832507442
+Minimal cost: [145557.27131965]
+Minimal theta: [[-859.28835142]
+ [   0.        ]
+ [-316.97595759]
+ [-249.5377041 ]
+ [   0.        ]
+ [ 772.41154885]
+ [1172.64289272]]
+
+
+Minimal alpha 2
+Minimal lambda 50.0
+Minimal cost: [147543.85067143]
+Minimal theta: [[  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [117.91345708]
+ [316.5735976 ]]
+
+
+Minimal alpha 3
+Minimal lambda 50.0
+Minimal cost: [147852.26440683]
+Minimal theta: [[230.8828948 ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [ 55.11685834]
+ [144.05114335]]
+
+
+Minimal alpha 4
+Minimal lambda 50.0
+Minimal cost: [147907.77132429]
+Minimal theta: [[316.66538467]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [ 31.25352703]
+ [ 81.30579468]]
+
+
+Minimal alpha 5
+Minimal lambda 50.0
+Minimal cost: [147923.07292789]
+Minimal theta: [[356.86016727]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [ 20.04572607]
+ [ 52.07438264]]
+
+
+Minimal alpha 6
+Minimal lambda 50.0
+Minimal cost: [147928.555952]
+Minimal theta: [[378.78409488]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [ 13.93130086]
+ [ 36.16935742]]
+
+
+Minimal alpha 7
+Minimal lambda 50.0
+Minimal cost: [147930.89091022]
+Minimal theta: [[392.02706543]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [ 10.23852032]
+ [ 26.57432683]]
+
+
+Minimal alpha 8
+Minimal lambda 50.0
+Minimal cost: [147932.01387577]
+Minimal theta: [[400.63009879]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  7.84005078]
+ [ 20.34581088]]
+
+
+Minimal alpha 9
+Minimal lambda 50.0
+Minimal cost: [147932.60488576]
+Minimal theta: [[406.53140136]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  6.19508886]
+ [ 16.07539546]]
+
+
+Minimal alpha 10
+Minimal lambda 50.0
+Minimal cost: [147932.93825394]
+Minimal theta: [[410.75395161]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  0.        ]
+ [  5.0182357 ]
+ [ 13.02080302]]
+
+

@@ -1,0 +1,42 @@
+Iterations 1 accuracy 0.3464467005076142 iters 0 inertia 128981.35395304568 ymax 7.0
+Iterations 2 accuracy 0.5621827411167513 iters 4 inertia 85258.72453226482 ymax 7.0
+Iterations 3 accuracy 0.7271573604060914 iters 19 inertia 35007.03938216207 ymax 7.0
+Iterations 4 accuracy 0.8464467005076142 iters 29 inertia 23552.639257854087 ymax 7.0
+Iterations 5 accuracy 0.8527918781725888 iters 6 inertia 16590.971234339006 ymax 7.0
+Iterations 6 accuracy 0.9086294416243654 iters 3 inertia 12759.779952845633 ymax 7.0
+Iterations 7 accuracy 0.8934010152284264 iters 52 inertia 13517.6013547058 ymax 7.0
+Iterations 8 accuracy 0.9302030456852792 iters 10 inertia 9942.57738188045 ymax 7.0
+Iterations 9 accuracy 0.9111675126903553 iters 11 inertia 9037.175992687156 ymax 7.0
+Iterations 10 accuracy 0.9352791878172588 iters 7 inertia 8039.078690581671 ymax 7.0
+Iterations 11 accuracy 0.9441624365482234 iters 11 inertia 7136.601092914432 ymax 7.0
+Iterations 12 accuracy 0.9809644670050761 iters 17 inertia 5804.431475233443 ymax 7.0
+Iterations 13 accuracy 0.9479695431472082 iters 27 inertia 6185.058531215454 ymax 7.0
+Iterations 14 accuracy 0.983502538071066 iters 7 inertia 5636.285200325365 ymax 7.0
+Iterations 15 accuracy 0.9873096446700508 iters 18 inertia 4289.611517042774 ymax 7.0
+Iterations 16 accuracy 0.9936548223350253 iters 9 inertia 4615.814606774298 ymax 7.0
+Iterations 17 accuracy 0.9961928934010152 iters 9 inertia 3739.0401455277347 ymax 7.0
+Iterations 18 accuracy 0.9923857868020305 iters 8 inertia 3475.1877490603456 ymax 7.0
+Iterations 19 accuracy 0.9974619289340102 iters 11 inertia 3302.1108063301963 ymax 7.0
+
+Iterations 1 accuracy 0.3464467005076142 iters 0 inertia 128981.35395304568 ymax 7.0
+Iterations 2 accuracy 0.5063451776649747 iters 3 inertia 68003.96184505805 ymax 7.0
+Iterations 3 accuracy 0.7271573604060914 iters 3 inertia 35006.523655715384 ymax 7.0
+Iterations 4 accuracy 0.8464467005076142 iters 8 inertia 23552.639257854087 ymax 7.0
+Iterations 5 accuracy 0.8527918781725888 iters 6 inertia 16598.2331549667 ymax 7.0
+Iterations 6 accuracy 0.8388324873096447 iters 7 inertia 15112.642188788595 ymax 7.0
+Iterations 7 accuracy 0.9428934010152284 iters 11 inertia 11000.359627187758 ymax 7.0
+Iterations 8 accuracy 0.9200507614213198 iters 9 inertia 10315.768020715415 ymax 7.0
+Iterations 9 accuracy 0.8972081218274112 iters 8 inertia 9698.57719719951 ymax 7.0
+Iterations 10 accuracy 0.9873096446700508 iters 29 inertia 7345.798531626233 ymax 7.0
+Iterations 11 accuracy 0.9758883248730964 iters 9 inertia 7261.3562249598435 ymax 7.0
+Iterations 12 accuracy 0.9720812182741116 iters 9 inertia 5894.632476320791 ymax 7.0
+Iterations 13 accuracy 0.9403553299492385 iters 14 inertia 5980.409474784719 ymax 7.0
+Iterations 14 accuracy 0.9923857868020305 iters 9 inertia 4802.521609942882 ymax 7.0
+Iterations 15 accuracy 0.9949238578680203 iters 6 inertia 5171.041487073624 ymax 7.0
+Iterations 16 accuracy 0.9923857868020305 iters 5 inertia 4128.67376300174 ymax 7.0
+Iterations 17 accuracy 0.9949238578680203 iters 16 inertia 3704.962159204943 ymax 7.0
+Iterations 18 accuracy 0.9974619289340102 iters 8 inertia 3593.229606590891 ymax 7.0
+Iterations 19 accuracy 0.9949238578680203 iters 6 inertia 3310.4656168169154 ymax 7.0
+
+
+

@@ -1,0 +1,40 @@
+Cluster assign [ 7  0  7 ...  3  3 18]
+Cluster assign [ 4 16  4 ... 26 26 13]Iterations None
+Cluster assign [21 21 21 ...  8 23  7]Iterations None
+Cluster assign [11 11 11 ...  9  9  9]Iterations None
+Cluster assign [13 11 13 ...  8 27  3]Iterations None
+Cluster assign [13  5  5 ... 10 23 23]Iterations None
+Cluster assign [10 10 10 ...  0  0  0]Iterations None
+Cluster assign [26 25 25 ... 29 29 29]Iterations None
+Cluster assign [ 4 29 24 ... 30 30 30]Iterations None
+Cluster assign [12 12 12 ...  1  0 16]Iterations None
+Cluster assign [ 2  2  2 ...  5  5 28]Iterations None
+Cluster assign [10 10 10 ... 11 11  0]Iterations None
+Cluster assign [9 2 9 ... 0 0 0]Iterations None
+Cluster assign [10 10 10 ... 17 17 17]Iterations None
+Cluster assign [11 29 11 ...  4 18 18]Iterations None
+Cluster assign [14 19 19 ... 30 10 30]Iterations None
+Cluster assign [16 20 16 ... 30 30  0]Iterations None
+Cluster assign [18 18 18 ... 11 19 27]Iterations None
+Cluster assign [10  9 10 ... 28 28 18]Iterations None
+Cluster assign [14 14 14 ... 16 30  8]Iterations None
+Cluster assign [16 16 16 ... 21 21 21]Iterations None
+Cluster assign [10 23 23 ... 30 30 30]Iterations None
+Cluster assign [17 17 17 ... 30 30 30]Iterations None
+Cluster assign [4 4 4 ... 2 2 2]Iterations None
+Cluster assign [24 24 24 ... 22  8 22]Iterations None
+Cluster assign [ 0  0  0 ...  4 23 23]Iterations None
+Cluster assign [23 23 23 ...  1 12 12]Iterations None
+Cluster assign [14 14 14 ...  1 10  1]Iterations None
+Cluster assign [ 8  8  8 ... 24  4  4]Iterations None
+Cluster assign [22 22 22 ... 11 11 11]Iterations None
+Cluster assign [13 13 13 ...  8 14  8]Iterations None
+Cluster assign [23 23 23 ...  6  6 29]Iterations None
+Cluster assign [23 23 23 ... 25 25 25]Iterations None
+Cluster assign [ 6  6  6 ...  5  5 28]Iterations None
+Cluster assign [ 4 27  4 ...  6 14  6]Iterations None
+Cluster assign [26 14 26 ... 24 24 24]Iterations None
+Cluster assign [27 18 27 ... 11 11 11]Iterations 17
+Cluster assign [29  7 29 ... 10 10 10]Iterations 11
+Cluster assign [13 13 13 ... 24 24 26]Iterations 39
+Cluster assign [16 16 16 ... 24 24 24]Iterations 23
