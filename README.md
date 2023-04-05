@@ -1,2 +1,2 @@
 # MPUMProjects
-# MPUMprojects
+AI projects and raports from MPUM course
